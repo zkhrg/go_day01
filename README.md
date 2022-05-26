@@ -1,4 +1,4 @@
-# Day 01 - Go Piscine
+# Day 01 - Go Intensive
 
 ## Comparing Incomparable
 
