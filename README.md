@@ -1,4 +1,4 @@
-# Day 01 - Go Intensive
+# Day 01 - Go Boot camp
 
 ## Comparing Incomparable
 
@@ -61,6 +61,11 @@ And...sometimes even bakeries use them to store recipes. So the old famous baker
                 <itemcount>7</itemcount>
                 <itemunit></itemunit> <!-- itemunit may be empty  -->
             </item>
+            <item>
+                <itemname>Cinnamon</itemname>
+                <itemcount>1</itemcount>
+                <itemunit>pieces</itemunit>
+            </item>
             <!-- Here can be more ingredients  -->
         </ingredients>
     </cake>
@@ -106,17 +111,21 @@ Life was great and simple until the owner of the bakery found out that in the ne
         },
         {
           "ingredient_name": "Strawberries",
-          "ingredient_count": "7"  // ingredient_unit is not even here!
+          "ingredient_count": "8"  // ingredient_unit is not even here!
         },
         {
-          "ingredient_name": "Vanilla extract",
+          "ingredient_name": "Coffee Beans",
           "ingredient_count": "2.5",
           "ingredient_unit": "tablespoons"
+        },
+        {
+          "ingredient_name": "Cinnamon",
+          "ingredient_count": "1"
         }
       ]
     },
     {
-      "name": "Blueberry Muffin Cake",
+      "name": "Moonshine Muffin",
       "time": "30 min",
       "ingredients": [
         {
@@ -181,8 +190,8 @@ CHANGED cooking time for cake "Red Velvet Strawberry Cake" - "45 min" instead of
 ADDED ingredient "Coffee beans" for cake  "Red Velvet Strawberry Cake"
 REMOVED ingredient "Vanilla extract" for cake  "Red Velvet Strawberry Cake"
 CHANGED unit for ingredient "Flour" for cake  "Red Velvet Strawberry Cake" - "mugs" instead of "cups"
-CHANGED unit count for ingredient "Vanilla extract" for cake  "Red Velvet Strawberry Cake" - "2.5" instead of "1.5"
-REMOVED unit "tablespoons" for ingredient "Vanilla extract" for cake  "Red Velvet Strawberry Cake"
+CHANGED unit count for ingredient "Strawberries" for cake  "Red Velvet Strawberry Cake" - "8" instead of "7"
+REMOVED unit "pieces" for ingredient "Cinnamon" for cake  "Red Velvet Strawberry Cake"
 ```
 
 <h2 id="chapter-vi" >Chapter VI</h2>
