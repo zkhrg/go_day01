@@ -160,23 +160,12 @@
 
 И тебе нужно будет помочь ему с этим. Подумай какие типы объектов в этой базе данных и как их можно представить в коде. Затем напиши интерфейс `DBReader` и две реализации его, одну для чтения JSON, другую для чтения XML. Обе из них должны возвращать объект одного типа в качестве результата. 
 
-To check that his idea works, make the code print JSON version of the database when it's reading from XML and vice versa. Both XML and JSON fields should be indented with 4 spaces ("pretty-printing").
-
 Для проверки что это идея работает сделай код для вывода на экран JSON версии базы данных XML и наоборот (лат. `vice versa`). Оба формата XML и JSON должны иметь отступ полей в 4 пробела (так называемый приятный вывод "pretty-printing").
 
 <h2 id="chapter-v" >Глава V</h2>
 <h3 id="ex01">Exercise 01: Оценка ущерба</h3>
 
-Okay, so now the owner decided to compare the databases. You've seen that the stolen database has modified versions of the same recipes, meaning there are several possible cases:
-
 Оки, так теперь владелец решил сравнить базы данных. Ты увидел что сворованная база данных имеет измененные версии одних и тех же рецептов, имеется в виду что они похожие в таких случах:
-
-1) New cake is added or old one removed
-2) Cooking time is different for the same cake
-3) New ingredient is added or removed for the same cake. *Important:* the order of ingredients doesn't matter. Only the names are.
-4) The count of units for the same ingredient has changed.
-5) The unit itself for measuring the ingredient has changed.
-6) Ingredient unit is missing or added
 
 1) Новый торт добавлен или старый один удален.
 2) Время приготовления различное для одного и того же торта
