@@ -56,7 +56,7 @@ func main() {
 	// 	fmt.Println("Error reading '}' token:", err)
 	// }
 
-	xmlFile, err := os.Open("/Users/diamondp/Projects/Go_Day01-1/datasets/recipes001.xml")
+	xmlFile, err := os.Open("/Users/diamondp/Projects/Go_Day01-1/datasets/recipes002.xml")
 	if err != nil {
 		fmt.Println("Error opening XML file:", err)
 		return

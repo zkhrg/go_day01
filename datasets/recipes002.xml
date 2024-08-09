@@ -1,0 +1,2100 @@
+<recipes>
+	<cake>
+		<name>Mango Cake</name>
+		<stovetime>5 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Marsala Wine</itemname>
+				<itemcount>11.08</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Marzipan</itemname>
+				<itemcount>1.57</itemcount>
+				<itemunit>packets</itemunit>
+			</item>
+			<item>
+				<itemname>Brazil Nuts</itemname>
+				<itemcount>7.74</itemcount>
+				<itemunit>deciliters</itemunit>
+			</item>
+			<item>
+				<itemname>Vanilla Custard</itemname>
+				<itemcount>1.5</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+			<item>
+				<itemname>Bananas</itemname>
+				<itemcount>7.44</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Sprinkles</itemname>
+				<itemcount>6.56</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Cocoa Butter</itemname>
+				<itemcount>11.3</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+			<item>
+				<itemname>Colorful Sprinkles</itemname>
+				<itemcount>5.42</itemcount>
+				<itemunit>slabs</itemunit>
+			</item>
+			<item>
+				<itemname>Espresso Powder</itemname>
+				<itemcount>1.13</itemcount>
+				<itemunit>pieces</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Peel</itemname>
+				<itemcount>11.88</itemcount>
+				<itemunit>pieces</itemunit>
+			</item>
+			<item>
+				<itemname>Apricot Preserves</itemname>
+				<itemcount>8.22</itemcount>
+				<itemunit>bars</itemunit>
+			</item>
+			<item>
+				<itemname>Saffron</itemname>
+				<itemcount>10.32</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Vanilla Extract</itemname>
+				<itemcount>1.37</itemcount>
+				<itemunit>slabs</itemunit>
+			</item>
+			<item>
+				<itemname>Maple Syrup</itemname>
+				<itemcount>8.94</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Pumpkin Puree</itemname>
+				<itemcount>4.63</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Rose Petals</itemname>
+				<itemcount>3.87</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Cream of Tartar</itemname>
+				<itemcount>6.66</itemcount>
+				<itemunit>cans</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Dulce de Leche Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Vegetable Oil</itemname>
+				<itemcount>6.41</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Chopped Mango</itemname>
+				<itemcount>0.05</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Chopped Mango</itemname>
+				<itemcount>7.18</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Fennel Seeds</itemname>
+				<itemcount>1.14</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Whole Wheat Flour</itemname>
+				<itemcount>0.19</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Port Wine</itemname>
+				<itemcount>0.19</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Milk Powder</itemname>
+				<itemcount>2.73</itemcount>
+				<itemunit>dollops</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Milk</itemname>
+				<itemcount>4.69</itemcount>
+				<itemunit>packets</itemunit>
+			</item>
+			<item>
+				<itemname>Cinnamon Sugar</itemname>
+				<itemcount>7.51</itemcount>
+				<itemunit>sprigs</itemunit>
+			</item>
+			<item>
+				<itemname>Cashews</itemname>
+				<itemcount>8.08</itemcount>
+				<itemunit>sheets</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Pumpkin Pecan Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Raspberry Jam</itemname>
+				<itemcount>2.02</itemcount>
+				<itemunit>drops</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Extract</itemname>
+				<itemcount>9.17</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Milk Powder</itemname>
+				<itemcount>8.65</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Zest</itemname>
+				<itemcount>10.28</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Caramel Sauce</itemname>
+				<itemcount>4</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Pears</itemname>
+				<itemcount>3.16</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Pecans</itemname>
+				<itemcount>4.49</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Pastry Cream</itemname>
+				<itemcount>5.17</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Sour Cream</itemname>
+				<itemcount>1.67</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Flaxseeds</itemname>
+				<itemcount>2.59</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Milk Chocolate</itemname>
+				<itemcount>3.92</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Colorful Sprinkles</itemname>
+				<itemcount>9.61</itemcount>
+				<itemunit>sprigs</itemunit>
+			</item>
+			<item>
+				<itemname>Buttermilk Powder</itemname>
+				<itemcount>1.9</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Blackberry Lemon Cake</name>
+		<stovetime>5 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Lemon Juice</itemname>
+				<itemcount>9.53</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Buttermilk Powder</itemname>
+				<itemcount>4.15</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Syrup</itemname>
+				<itemcount>11.18</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+			<item>
+				<itemname>Apples</itemname>
+				<itemcount>1.51</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Butter</itemname>
+				<itemcount>7.67</itemcount>
+				<itemunit>sheets</itemunit>
+			</item>
+			<item>
+				<itemname>Strawberries</itemname>
+				<itemcount>6.57</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Zest</itemname>
+				<itemcount>11.23</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Canola Oil</itemname>
+				<itemcount>6.19</itemcount>
+				<itemunit>slices</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Lemon Raspberry Cheesecake Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Cinnamon</itemname>
+				<itemcount>2.67</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Buttermilk</itemname>
+				<itemcount>9.94</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Dark Chocolate</itemname>
+				<itemcount>11.88</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Vanilla Bean</itemname>
+				<itemcount>10.65</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Sunflower Seeds</itemname>
+				<itemcount>2.58</itemcount>
+				<itemunit>ounces</itemunit>
+			</item>
+			<item>
+				<itemname>Colorful Sprinkles</itemname>
+				<itemcount>8.49</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Puree</itemname>
+				<itemcount>3.48</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Goji Berries</itemname>
+				<itemcount>1.5</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Pumpkin Puree</itemname>
+				<itemcount>5.33</itemcount>
+				<itemunit>puffs</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Extract</itemname>
+				<itemcount>6.39</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Raspberry Almond Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Applesauce</itemname>
+				<itemcount>11.2</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Baking Powder</itemname>
+				<itemcount>4.8</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Juice</itemname>
+				<itemcount>7.22</itemcount>
+				<itemunit>ounces</itemunit>
+			</item>
+			<item>
+				<itemname>Sorghum Flour</itemname>
+				<itemcount>1.83</itemcount>
+				<itemunit>dollops</itemunit>
+			</item>
+			<item>
+				<itemname>Apricot Preserves</itemname>
+				<itemcount>1.03</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Lemon Blueberry Cake</name>
+		<stovetime>5 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Sorghum Flour</itemname>
+				<itemcount>2.24</itemcount>
+				<itemunit>jars</itemunit>
+			</item>
+			<item>
+				<itemname>Brandy</itemname>
+				<itemcount>6.89</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Cinnamon Sugar</itemname>
+				<itemcount>7.89</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Instant Coffee</itemname>
+				<itemcount>4.21</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Malt Extract</itemname>
+				<itemcount>3.37</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Almond Extract</itemname>
+				<itemcount>4.46</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Mango</itemname>
+				<itemcount>0.39</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Maple Pecan Cake</name>
+		<stovetime>5 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Vegetable Oil</itemname>
+				<itemcount>8.13</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Sherry</itemname>
+				<itemcount>8.4</itemcount>
+				<itemunit>drops</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Hibiscus</itemname>
+				<itemcount>6.39</itemcount>
+				<itemunit>ounces</itemunit>
+			</item>
+			<item>
+				<itemname>Rum</itemname>
+				<itemcount>1.67</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Goji Berries</itemname>
+				<itemcount>1.64</itemcount>
+				<itemunit>count</itemunit>
+			</item>
+			<item>
+				<itemname>Sweetened Condensed Milk</itemname>
+				<itemcount>0.34</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Powdered Sugar</itemname>
+				<itemcount>3.27</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Glaze</itemname>
+				<itemcount>9.42</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Peel</itemname>
+				<itemcount>6.15</itemcount>
+				<itemunit>slices</itemunit>
+			</item>
+			<item>
+				<itemname>Xanthan Gum</itemname>
+				<itemcount>8.11</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Lemonade Concentrate</itemname>
+				<itemcount>7.81</itemcount>
+				<itemunit>sheets</itemunit>
+			</item>
+			<item>
+				<itemname>Cinnamon Sugar</itemname>
+				<itemcount>9.76</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Lemon Lavender Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Colorful Sprinkles</itemname>
+				<itemcount>5.84</itemcount>
+				<itemunit>drops</itemunit>
+			</item>
+			<item>
+				<itemname>Ginger</itemname>
+				<itemcount>5.31</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Walnuts</itemname>
+				<itemcount>3.75</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Caramel Bits</itemname>
+				<itemcount>8.58</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Gluten-Free Flour</itemname>
+				<itemcount>11.08</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Glaze</itemname>
+				<itemcount>5.49</itemcount>
+				<itemunit>sprigs</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Yogurt</itemname>
+				<itemcount>2.38</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Evaporated Milk</itemname>
+				<itemcount>9.09</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Aquafaba</itemname>
+				<itemcount>11.04</itemcount>
+				<itemunit>slices</itemunit>
+			</item>
+			<item>
+				<itemname>Sherry</itemname>
+				<itemcount>10.75</itemcount>
+				<itemunit>bars</itemunit>
+			</item>
+			<item>
+				<itemname>Allspice</itemname>
+				<itemcount>7.53</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Extract</itemname>
+				<itemcount>9.66</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Marshmallows</itemname>
+				<itemcount>11.5</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Honey</itemname>
+				<itemcount>0.01</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Syrup</itemname>
+				<itemcount>3.07</itemcount>
+				<itemunit>dollops</itemunit>
+			</item>
+			<item>
+				<itemname>Vanilla Custard</itemname>
+				<itemcount>0.4</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Frosting</itemname>
+				<itemcount>0.29</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Gold Leaf</itemname>
+				<itemcount>9.96</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Lemonade Concentrate</itemname>
+				<itemcount>0.2</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+			<item>
+				<itemname>Boursin Cheese</itemname>
+				<itemcount>1.3</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Flakes</itemname>
+				<itemcount>11.35</itemcount>
+				<itemunit>slices</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Zest</itemname>
+				<itemcount>8.46</itemcount>
+				<itemunit>puffs</itemunit>
+			</item>
+			<item>
+				<itemname>Mascarpone Cheese</itemname>
+				<itemcount>5.8</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Maple Peach Cake</name>
+		<stovetime>15 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Cinnamon Sugar</itemname>
+				<itemcount>2.58</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Yogurt</itemname>
+				<itemcount>0.94</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Fresh Berries</itemname>
+				<itemcount>7.46</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Tapioca Flour</itemname>
+				<itemcount>5.67</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Gold Leaf</itemname>
+				<itemcount>3.6</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+			<item>
+				<itemname>Royal Icing</itemname>
+				<itemcount>0.14</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Butter</itemname>
+				<itemcount>1.68</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Pecans</itemname>
+				<itemcount>10.91</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Butter</itemname>
+				<itemcount>6</itemcount>
+				<itemunit>wedges</itemunit>
+			</item>
+			<item>
+				<itemname>Fresh Berries</itemname>
+				<itemcount>5.03</itemcount>
+				<itemunit>wedges</itemunit>
+			</item>
+			<item>
+				<itemname>Brazil Nuts</itemname>
+				<itemcount>10.57</itemcount>
+				<itemunit>puffs</itemunit>
+			</item>
+			<item>
+				<itemname>Cornmeal</itemname>
+				<itemcount>9.18</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Eggs</itemname>
+				<itemcount>0.97</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+			<item>
+				<itemname>Sugar</itemname>
+				<itemcount>5.91</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Lemon Cheesecake Cake</name>
+		<stovetime>5 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Rum</itemname>
+				<itemcount>11.28</itemcount>
+				<itemunit>pieces</itemunit>
+			</item>
+			<item>
+				<itemname>Silver Dragees</itemname>
+				<itemcount>2.21</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Peel</itemname>
+				<itemcount>8.62</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Guar Gum</itemname>
+				<itemcount>5.42</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Chopped Dates</itemname>
+				<itemcount>3.95</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Cloves</itemname>
+				<itemcount>0.39</itemcount>
+				<itemunit>cans</itemunit>
+			</item>
+			<item>
+				<itemname>Baking Soda</itemname>
+				<itemcount>3.97</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Glaze</itemname>
+				<itemcount>9.02</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Dark Chocolate</itemname>
+				<itemcount>5.62</itemcount>
+				<itemunit>dollops</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Curd</itemname>
+				<itemcount>0.27</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Hibiscus</itemname>
+				<itemcount>10.54</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Flavored Gelatin</itemname>
+				<itemcount>3.22</itemcount>
+				<itemunit>bars</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Lavender</itemname>
+				<itemcount>3.32</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Baking Soda</itemname>
+				<itemcount>3.57</itemcount>
+				<itemunit>cans</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Sprinkles</itemname>
+				<itemcount>1.27</itemcount>
+				<itemunit>slices</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Extract</itemname>
+				<itemcount>3.59</itemcount>
+				<itemunit>rings</itemunit>
+			</item>
+			<item>
+				<itemname>Maple Extract</itemname>
+				<itemcount>5.82</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Ginger</itemname>
+				<itemcount>7.64</itemcount>
+				<itemunit>slabs</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Pineapple Coconut Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Basil Extract</itemname>
+				<itemcount>2.9</itemcount>
+				<itemunit>dollops</itemunit>
+			</item>
+			<item>
+				<itemname>Pineapple</itemname>
+				<itemcount>6.93</itemcount>
+				<itemunit>slabs</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Yogurt</itemname>
+				<itemcount>6.28</itemcount>
+				<itemunit>deciliters</itemunit>
+			</item>
+			<item>
+				<itemname>Marzipan</itemname>
+				<itemcount>7.5</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Syrup</itemname>
+				<itemcount>3.6</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Molasses Powder</itemname>
+				<itemcount>11.03</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+			<item>
+				<itemname>Buttermilk</itemname>
+				<itemcount>9.91</itemcount>
+				<itemunit>sprigs</itemunit>
+			</item>
+			<item>
+				<itemname>Vanilla Bean</itemname>
+				<itemcount>10.58</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Tapioca Flour</itemname>
+				<itemcount>5.69</itemcount>
+				<itemunit>jars</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Butter</itemname>
+				<itemcount>5.52</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Kahlua</itemname>
+				<itemcount>8.76</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Molasses</itemname>
+				<itemcount>6.9</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Elderflower Syrup</itemname>
+				<itemcount>9.35</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Pears</itemname>
+				<itemcount>11.85</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Yogurt</itemname>
+				<itemcount>3.03</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Peel</itemname>
+				<itemcount>6.56</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Juice</itemname>
+				<itemcount>1.56</itemcount>
+				<itemunit>packets</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Yogurt</itemname>
+				<itemcount>1.8</itemcount>
+				<itemunit>deciliters</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Pumpkin Pecan Cake</name>
+		<stovetime>30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Malt Extract</itemname>
+				<itemcount>11.6</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+			<item>
+				<itemname>Pecans</itemname>
+				<itemcount>9.66</itemcount>
+				<itemunit>count</itemunit>
+			</item>
+			<item>
+				<itemname>Tapioca Flour</itemname>
+				<itemcount>8.93</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Sweetened Condensed Milk</itemname>
+				<itemcount>7.31</itemcount>
+				<itemunit>ounces</itemunit>
+			</item>
+			<item>
+				<itemname>Heavy Cream</itemname>
+				<itemcount>9.35</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Cornmeal</itemname>
+				<itemcount>3.44</itemcount>
+				<itemunit>jars</itemunit>
+			</item>
+			<item>
+				<itemname>Vanilla Custard</itemname>
+				<itemcount>1.16</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Milk</itemname>
+				<itemcount>1.11</itemcount>
+				<itemunit>sheets</itemunit>
+			</item>
+			<item>
+				<itemname>Port Wine</itemname>
+				<itemcount>2.68</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Cream Cheese Frosting</itemname>
+				<itemcount>3.34</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Extract</itemname>
+				<itemcount>6.03</itemcount>
+				<itemunit>sheets</itemunit>
+			</item>
+			<item>
+				<itemname>Amaretto</itemname>
+				<itemcount>1.93</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Pumpkin Seeds</itemname>
+				<itemcount>9.46</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Sherry</itemname>
+				<itemcount>1.75</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Peel</itemname>
+				<itemcount>8.39</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Lavender Extract</itemname>
+				<itemcount>6.01</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Leaves</itemname>
+				<itemcount>4</itemcount>
+				<itemunit>count</itemunit>
+			</item>
+			<item>
+				<itemname>Cocoa Powder</itemname>
+				<itemcount>0.54</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Ginger Ale</itemname>
+				<itemcount>4.35</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Frosting</itemname>
+				<itemcount>3.32</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Chopped Pecans</itemname>
+				<itemcount>1.89</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Prunes</itemname>
+				<itemcount>3.24</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Coconut Mango Cake</name>
+		<stovetime>5 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Pumpkin Seeds</itemname>
+				<itemcount>10.26</itemcount>
+				<itemunit>ounces</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Puree</itemname>
+				<itemcount>10.85</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Extract</itemname>
+				<itemcount>9.84</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Zest</itemname>
+				<itemcount>7.94</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Graham Cracker Crumbs</itemname>
+				<itemcount>4.9</itemcount>
+				<itemunit>sprigs</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Syrup</itemname>
+				<itemcount>4.67</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Cranberries</itemname>
+				<itemcount>1.1</itemcount>
+				<itemunit>drops</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Ganache</itemname>
+				<itemcount>0.56</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Malt Extract</itemname>
+				<itemcount>4.24</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Extract</itemname>
+				<itemcount>3.29</itemcount>
+				<itemunit>cans</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Chocolate Banana Cake</name>
+		<stovetime>30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Brazil Nuts</itemname>
+				<itemcount>5.1</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Baking Powder</itemname>
+				<itemcount>10.88</itemcount>
+				<itemunit>jars</itemunit>
+			</item>
+			<item>
+				<itemname>Peanut Butter</itemname>
+				<itemcount>2.43</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Amaretto</itemname>
+				<itemcount>11.58</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+			<item>
+				<itemname>Mango</itemname>
+				<itemcount>7.32</itemcount>
+				<itemunit>count</itemunit>
+			</item>
+			<item>
+				<itemname>Peach</itemname>
+				<itemcount>4.5</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Leaves</itemname>
+				<itemcount>9.08</itemcount>
+				<itemunit>slabs</itemunit>
+			</item>
+			<item>
+				<itemname>Star Anise</itemname>
+				<itemcount>4.69</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Flaxseeds</itemname>
+				<itemcount>7.16</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Raspberry Jam</itemname>
+				<itemcount>4.48</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Cranberries</itemname>
+				<itemcount>3.08</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Gelatin</itemname>
+				<itemcount>7.02</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Figs</itemname>
+				<itemcount>6.48</itemcount>
+				<itemunit>cans</itemunit>
+			</item>
+			<item>
+				<itemname>Cocoa Butter</itemname>
+				<itemcount>1.14</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Peel</itemname>
+				<itemcount>1.47</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Flakes</itemname>
+				<itemcount>3.52</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Pineapple Coconut Cake</name>
+		<stovetime>60 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Salt</itemname>
+				<itemcount>3.36</itemcount>
+				<itemunit>dollops</itemunit>
+			</item>
+			<item>
+				<itemname>Butter</itemname>
+				<itemcount>9.68</itemcount>
+				<itemunit>wedges</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Shavings</itemname>
+				<itemcount>8.01</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+			<item>
+				<itemname>Edible Flowers</itemname>
+				<itemcount>10.53</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Sweetened Coconut</itemname>
+				<itemcount>7.33</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Cinnamon Sugar</itemname>
+				<itemcount>1.04</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Sugar</itemname>
+				<itemcount>10.05</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Mango</itemname>
+				<itemcount>5.84</itemcount>
+				<itemunit>rings</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Liqueur</itemname>
+				<itemcount>3.26</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Cinnamon</itemname>
+				<itemcount>4.87</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Mint Extract</itemname>
+				<itemcount>3.45</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Puree</itemname>
+				<itemcount>3.42</itemcount>
+				<itemunit>packets</itemunit>
+			</item>
+			<item>
+				<itemname>Walnuts</itemname>
+				<itemcount>1.45</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Juice</itemname>
+				<itemcount>2.82</itemcount>
+				<itemunit>puffs</itemunit>
+			</item>
+			<item>
+				<itemname>Macadamia Nuts</itemname>
+				<itemcount>9.79</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Cashews</itemname>
+				<itemcount>4.36</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Pistachio Cheesecake Cake</name>
+		<stovetime>45 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Instant Coffee</itemname>
+				<itemcount>1.73</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>White Sesame Seeds</itemname>
+				<itemcount>9.44</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Syrup</itemname>
+				<itemcount>11.27</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Apples</itemname>
+				<itemcount>6.28</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Extract</itemname>
+				<itemcount>8.58</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Red Velvet Cake</name>
+		<stovetime>15 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Fresh Berries</itemname>
+				<itemcount>5.67</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Cranberries</itemname>
+				<itemcount>3.47</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Rose Petals</itemname>
+				<itemcount>3.93</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Allspice</itemname>
+				<itemcount>8.14</itemcount>
+				<itemunit>slices</itemunit>
+			</item>
+			<item>
+				<itemname>Raspberry Jam</itemname>
+				<itemcount>6.11</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Amaretto</itemname>
+				<itemcount>3.1</itemcount>
+				<itemunit>sprigs</itemunit>
+			</item>
+			<item>
+				<itemname>Powdered Sugar</itemname>
+				<itemcount>5.54</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Saffron</itemname>
+				<itemcount>2.97</itemcount>
+				<itemunit>sheets</itemunit>
+			</item>
+			<item>
+				<itemname>Royal Icing</itemname>
+				<itemcount>6.79</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Boursin Cheese</itemname>
+				<itemcount>1.29</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Extract</itemname>
+				<itemcount>3.15</itemcount>
+				<itemunit>deciliters</itemunit>
+			</item>
+			<item>
+				<itemname>Mint Extract</itemname>
+				<itemcount>3.3</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Cornstarch</itemname>
+				<itemcount>7.12</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Carrot Cake Bundt Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Sparkling Water</itemname>
+				<itemcount>1.53</itemcount>
+				<itemunit>packets</itemunit>
+			</item>
+			<item>
+				<itemname>Almond Extract</itemname>
+				<itemcount>6.5</itemcount>
+				<itemunit>packets</itemunit>
+			</item>
+			<item>
+				<itemname>Silver Dragees</itemname>
+				<itemcount>7.05</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Frosting</itemname>
+				<itemcount>3.87</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Marzipan</itemname>
+				<itemcount>2.22</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Espresso Powder</itemname>
+				<itemcount>0.16</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+			<item>
+				<itemname>Hazelnut Paste</itemname>
+				<itemcount>5.33</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Lavender</itemname>
+				<itemcount>1.12</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Puree</itemname>
+				<itemcount>3.66</itemcount>
+				<itemunit>ounces</itemunit>
+			</item>
+			<item>
+				<itemname>Strawberries</itemname>
+				<itemcount>3.41</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Silken Tofu</itemname>
+				<itemcount>9.14</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Pistachios</itemname>
+				<itemcount>0.99</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Tiramisu Bundt Cake</name>
+		<stovetime>30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Orange Juice</itemname>
+				<itemcount>10.4</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Marmalade</itemname>
+				<itemcount>1.39</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>White Sesame Seeds</itemname>
+				<itemcount>4.41</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Lavender</itemname>
+				<itemcount>6.21</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Rum</itemname>
+				<itemcount>5.64</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Mint Leaves</itemname>
+				<itemcount>11.04</itemcount>
+				<itemunit>deciliters</itemunit>
+			</item>
+			<item>
+				<itemname>Sparkling Water</itemname>
+				<itemcount>11.26</itemcount>
+				<itemunit>puffs</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Leaves</itemname>
+				<itemcount>0.33</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Sugar</itemname>
+				<itemcount>6.48</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Boursin Cheese</itemname>
+				<itemcount>10.9</itemcount>
+				<itemunit>puffs</itemunit>
+			</item>
+			<item>
+				<itemname>Almond Extract</itemname>
+				<itemcount>10.43</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Vanilla Chai Cake</name>
+		<stovetime>15 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Kahlua</itemname>
+				<itemcount>1.75</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+			<item>
+				<itemname>Silken Tofu</itemname>
+				<itemcount>2.09</itemcount>
+				<itemunit>slabs</itemunit>
+			</item>
+			<item>
+				<itemname>Raisins</itemname>
+				<itemcount>2.12</itemcount>
+				<itemunit>slices</itemunit>
+			</item>
+			<item>
+				<itemname>Boursin Cheese</itemname>
+				<itemcount>10.19</itemcount>
+				<itemunit>bars</itemunit>
+			</item>
+			<item>
+				<itemname>Flavored Gelatin</itemname>
+				<itemcount>2.9</itemcount>
+				<itemunit>puffs</itemunit>
+			</item>
+			<item>
+				<itemname>Whipped Cream</itemname>
+				<itemcount>3.12</itemcount>
+				<itemunit>jars</itemunit>
+			</item>
+			<item>
+				<itemname>Prunes</itemname>
+				<itemcount>0.03</itemcount>
+				<itemunit>sheets</itemunit>
+			</item>
+			<item>
+				<itemname>Ricotta Cheese</itemname>
+				<itemcount>4.97</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Cinnamon</itemname>
+				<itemcount>0.79</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Ginger</itemname>
+				<itemcount>5.54</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Brown Sugar</itemname>
+				<itemcount>2.11</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Brandy</itemname>
+				<itemcount>9.67</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Port Wine</itemname>
+				<itemcount>8.63</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Oil</itemname>
+				<itemcount>4</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Hazelnut Paste</itemname>
+				<itemcount>11.25</itemcount>
+				<itemunit>drops</itemunit>
+			</item>
+			<item>
+				<itemname>Coconut Cream</itemname>
+				<itemcount>11.38</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Buttermilk Powder</itemname>
+				<itemcount>5.62</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Gingerbread Bundt Cake</name>
+		<stovetime>45 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Dried Goji Berries</itemname>
+				<itemcount>8.46</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Sugar</itemname>
+				<itemcount>5.53</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Brazil Nuts</itemname>
+				<itemcount>0.51</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Guar Gum</itemname>
+				<itemcount>4.62</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Chopped Dates</itemname>
+				<itemcount>2.4</itemcount>
+				<itemunit>drops</itemunit>
+			</item>
+			<item>
+				<itemname>Basil Leaves</itemname>
+				<itemcount>4.68</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Zucchini Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Cinnamon Stick</itemname>
+				<itemcount>8.21</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Pumpkin Puree</itemname>
+				<itemcount>4.5</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Sweet Rice Flour</itemname>
+				<itemcount>5.21</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Malt Extract</itemname>
+				<itemcount>7.56</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Spelt Flour</itemname>
+				<itemcount>5.61</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+			<item>
+				<itemname>Molasses</itemname>
+				<itemcount>4.3</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Curd</itemname>
+				<itemcount>6.48</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Whole Wheat Flour</itemname>
+				<itemcount>9.53</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Maple Extract</itemname>
+				<itemcount>9.37</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Lemon Raspberry Cheesecake Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Cornmeal</itemname>
+				<itemcount>10.68</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Hemp Seeds</itemname>
+				<itemcount>0.77</itemcount>
+				<itemunit>cans</itemunit>
+			</item>
+			<item>
+				<itemname>Whole Wheat Flour</itemname>
+				<itemcount>4.75</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Ganache</itemname>
+				<itemcount>11.36</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Caramel Sauce</itemname>
+				<itemcount>2.35</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Brown Butter</itemname>
+				<itemcount>8.44</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Puree</itemname>
+				<itemcount>10.69</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Vegetable Oil</itemname>
+				<itemcount>8.07</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Marzipan</itemname>
+				<itemcount>11.32</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Boursin Cheese</itemname>
+				<itemcount>0.45</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Marsala Wine</itemname>
+				<itemcount>0.36</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Baking Soda</itemname>
+				<itemcount>3.94</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Peel</itemname>
+				<itemcount>7.75</itemcount>
+				<itemunit>centiliters</itemunit>
+			</item>
+			<item>
+				<itemname>Cocoa Powder</itemname>
+				<itemcount>9.56</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Sweet Rice Flour</itemname>
+				<itemcount>6.01</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Syrup</itemname>
+				<itemcount>2.38</itemcount>
+				<itemunit>count</itemunit>
+			</item>
+			<item>
+				<itemname>Glaze</itemname>
+				<itemcount>1.22</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Milk Powder</itemname>
+				<itemcount>4.58</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Royal Icing</itemname>
+				<itemcount>4.44</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Prunes</itemname>
+				<itemcount>1.35</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Sour Cream</itemname>
+				<itemcount>2.59</itemcount>
+				<itemunit>jars</itemunit>
+			</item>
+			<item>
+				<itemname>Walnuts</itemname>
+				<itemcount>2.98</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Coffee Cake</name>
+		<stovetime>60 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Cornmeal</itemname>
+				<itemcount>8.23</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Hibiscus</itemname>
+				<itemcount>0.89</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+			<item>
+				<itemname>Cacao Nibs</itemname>
+				<itemcount>6.1</itemcount>
+				<itemunit>jars</itemunit>
+			</item>
+			<item>
+				<itemname>Boursin Cheese</itemname>
+				<itemcount>11.44</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Sesame Seeds</itemname>
+				<itemcount>7.37</itemcount>
+				<itemunit>milliliters</itemunit>
+			</item>
+			<item>
+				<itemname>Macadamia Nuts</itemname>
+				<itemcount>7.82</itemcount>
+				<itemunit>wedges</itemunit>
+			</item>
+			<item>
+				<itemname>Flaxseeds</itemname>
+				<itemcount>9.59</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Brazil Nuts</itemname>
+				<itemcount>6.97</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Caramel Sauce</itemname>
+				<itemcount>7.31</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Fondant</itemname>
+				<itemcount>2.66</itemcount>
+				<itemunit>dollops</itemunit>
+			</item>
+			<item>
+				<itemname>Tapioca Flour</itemname>
+				<itemcount>0.53</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Cream Cheese</itemname>
+				<itemcount>10.69</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Apricot Preserves</itemname>
+				<itemcount>6.27</itemcount>
+				<itemunit>scoops</itemunit>
+			</item>
+			<item>
+				<itemname>Fondant</itemname>
+				<itemcount>3.42</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Hemp Seeds</itemname>
+				<itemcount>2.71</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Saffron</itemname>
+				<itemcount>0.2</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+			<item>
+				<itemname>Buttermilk Powder</itemname>
+				<itemcount>11.33</itemcount>
+				<itemunit>pinches</itemunit>
+			</item>
+			<item>
+				<itemname>Grand Marnier</itemname>
+				<itemcount>1.1</itemcount>
+				<itemunit>sprigs</itemunit>
+			</item>
+			<item>
+				<itemname>Whole Wheat Flour</itemname>
+				<itemcount>5.4</itemcount>
+				<itemunit>count</itemunit>
+			</item>
+			<item>
+				<itemname>Prunes</itemname>
+				<itemcount>9.03</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Powdered Sugar</itemname>
+				<itemcount>5.07</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Maple Syrup</itemname>
+				<itemcount>9.47</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Maple Extract</itemname>
+				<itemcount>6.74</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Blackberry Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Cocoa Butter</itemname>
+				<itemcount>2.61</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Cloves</itemname>
+				<itemcount>0.3</itemcount>
+				<itemunit>bunches</itemunit>
+			</item>
+			<item>
+				<itemname>Turmeric</itemname>
+				<itemcount>0.87</itemcount>
+				<itemunit>pieces</itemunit>
+			</item>
+			<item>
+				<itemname>Lemon Curd</itemname>
+				<itemcount>7.48</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Peanut Brittle</itemname>
+				<itemcount>8.01</itemcount>
+				<itemunit>sprigs</itemunit>
+			</item>
+			<item>
+				<itemname>Applesauce</itemname>
+				<itemcount>4.34</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Silken Tofu</itemname>
+				<itemcount>3.36</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Vanilla Powder</itemname>
+				<itemcount>9.75</itemcount>
+				<itemunit>pieces</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Extract</itemname>
+				<itemcount>4.19</itemcount>
+				<itemunit>puffs</itemunit>
+			</item>
+			<item>
+				<itemname>Bananas</itemname>
+				<itemcount>10.91</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Cornmeal</itemname>
+				<itemcount>1.3</itemcount>
+				<itemunit>rings</itemunit>
+			</item>
+			<item>
+				<itemname>Lavender Extract</itemname>
+				<itemcount>9.54</itemcount>
+				<itemunit>grams</itemunit>
+			</item>
+			<item>
+				<itemname>Pineapple</itemname>
+				<itemcount>8.84</itemcount>
+				<itemunit>pieces</itemunit>
+			</item>
+			<item>
+				<itemname>Chopped Nuts</itemname>
+				<itemcount>3.61</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Pumpkin Seeds</itemname>
+				<itemcount>3.14</itemcount>
+				<itemunit>bars</itemunit>
+			</item>
+			<item>
+				<itemname>Caramel Sauce</itemname>
+				<itemcount>4.15</itemcount>
+				<itemunit>cubes</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Strawberry Almond Cheesecake Cake</name>
+		<stovetime>1 hour 30 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Chopped Pecans</itemname>
+				<itemcount>3.51</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Whole Wheat Flour</itemname>
+				<itemcount>0.65</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Sweetened Condensed Milk</itemname>
+				<itemcount>0.79</itemcount>
+				<itemunit>jars</itemunit>
+			</item>
+			<item>
+				<itemname>Espresso Powder</itemname>
+				<itemcount>2.15</itemcount>
+				<itemunit>dollops</itemunit>
+			</item>
+			<item>
+				<itemname>Heavy Cream</itemname>
+				<itemcount>11.28</itemcount>
+				<itemunit>pieces</itemunit>
+			</item>
+			<item>
+				<itemname>Fresh Berries</itemname>
+				<itemcount>8.25</itemcount>
+				<itemunit>packets</itemunit>
+			</item>
+			<item>
+				<itemname>Pumpkin Seeds</itemname>
+				<itemcount>10.22</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Black Sesame Seeds</itemname>
+				<itemcount>0.75</itemcount>
+				<itemunit>sheets</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Syrup</itemname>
+				<itemcount>10.21</itemcount>
+				<itemunit>drizzles</itemunit>
+			</item>
+			<item>
+				<itemname>Molasses</itemname>
+				<itemcount>8.86</itemcount>
+				<itemunit>deciliters</itemunit>
+			</item>
+			<item>
+				<itemname>Vanilla Custard</itemname>
+				<itemcount>0.58</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Sherry</itemname>
+				<itemcount>10.2</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+			<item>
+				<itemname>Graham Cracker Crumbs</itemname>
+				<itemcount>7.52</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Dried Apricots</itemname>
+				<itemcount>4.17</itemcount>
+				<itemunit>wedges</itemunit>
+			</item>
+			<item>
+				<itemname>White Chocolate</itemname>
+				<itemcount>6.75</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+	<cake>
+		<name>Lemon Cream Cake</name>
+		<stovetime>5 min</stovetime>
+		<ingredients>
+			<item>
+				<itemname>Coconut Yogurt</itemname>
+				<itemcount>7.37</itemcount>
+				<itemunit>sticks</itemunit>
+			</item>
+			<item>
+				<itemname>Apples</itemname>
+				<itemcount>7.06</itemcount>
+				<itemunit>cups</itemunit>
+			</item>
+			<item>
+				<itemname>Chocolate Sprinkles</itemname>
+				<itemcount>11.46</itemcount>
+				<itemunit>pounds</itemunit>
+			</item>
+			<item>
+				<itemname>Buttermilk Substitute</itemname>
+				<itemcount>11.12</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+			<item>
+				<itemname>Sweetened Condensed Milk</itemname>
+				<itemcount>3.06</itemcount>
+				<itemunit>slices</itemunit>
+			</item>
+			<item>
+				<itemname>Pumpkin Puree</itemname>
+				<itemcount>5.86</itemcount>
+				<itemunit>teaspoons</itemunit>
+			</item>
+			<item>
+				<itemname>Orange Extract</itemname>
+				<itemcount>1.57</itemcount>
+				<itemunit>drops</itemunit>
+			</item>
+			<item>
+				<itemname>Sesame Seeds</itemname>
+				<itemcount>6.35</itemcount>
+				<itemunit>count</itemunit>
+			</item>
+			<item>
+				<itemname>Powdered Sugar</itemname>
+				<itemcount>3.65</itemcount>
+				<itemunit>pints</itemunit>
+			</item>
+			<item>
+				<itemname>Fruit Liqueur</itemname>
+				<itemcount>8.05</itemcount>
+				<itemunit>packets</itemunit>
+			</item>
+			<item>
+				<itemname>Cinnamon</itemname>
+				<itemcount>8.42</itemcount>
+				<itemunit>liters</itemunit>
+			</item>
+			<item>
+				<itemname>Marshmallows</itemname>
+				<itemcount>2.39</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+			<item>
+				<itemname>Whipped Cream</itemname>
+				<itemcount>5.93</itemcount>
+				<itemunit>chunks</itemunit>
+			</item>
+			<item>
+				<itemname>White Chocolate</itemname>
+				<itemcount>3.1</itemcount>
+				<itemunit>quarts</itemunit>
+			</item>
+			<item>
+				<itemname>Sweetened Condensed Milk</itemname>
+				<itemcount>11.77</itemcount>
+				<itemunit>bars</itemunit>
+			</item>
+			<item>
+				<itemname>Sweet Rice Flour</itemname>
+				<itemcount>6.37</itemcount>
+				<itemunit>tablespoons</itemunit>
+			</item>
+			<item>
+				<itemname>Cream Cheese</itemname>
+				<itemcount>10.86</itemcount>
+				<itemunit>deciliters</itemunit>
+			</item>
+			<item>
+				<itemname>Powdered Sugar</itemname>
+				<itemcount>2.27</itemcount>
+				<itemunit>fillets</itemunit>
+			</item>
+		</ingredients>
+	</cake>
+</recipes>
