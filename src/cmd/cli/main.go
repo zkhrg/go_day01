@@ -1,7 +1,6 @@
 package main
 
 import (
-	"encoding/json"
 	"encoding/xml"
 	"fmt"
 	"os"
@@ -10,62 +9,64 @@ import (
 )
 
 func main() {
-	// Пример обработки JSON
-	jsonFile, err := os.Open("../datasets/recipes001.json")
-	if err != nil {
-		fmt.Println("Error opening JSON file:", err)
-		return
-	}
-	defer jsonFile.Close()
-	decoder := json.NewDecoder(jsonFile)
+	// // Пример обработки JSON
+	// jsonFile, err := os.Open("../datasets/recipes001.json")
+	// if err != nil {
+	// 	fmt.Println("Error opening JSON file:", err)
+	// 	return
+	// }
+	// defer jsonFile.Close()
+	// decoder := json.NewDecoder(jsonFile)
 
-	_, err = decoder.Token()
-	if err != nil {
-		fmt.Println("Error reading '{' token:", err)
-		return
-	}
+	// _, err = decoder.Token()
+	// if err != nil {
+	// 	fmt.Println("Error reading '{' token:", err)
+	// 	return
+	// }
 
-	// Пропускаем ключ "cake"
-	_, err = decoder.Token()
-	if err != nil {
-		fmt.Println("Error reading 'cake' token:", err)
-		return
-	}
+	// // Пропускаем ключ "cake"
+	// _, err = decoder.Token()
+	// if err != nil {
+	// 	fmt.Println("Error reading 'cake' token:", err)
+	// 	return
+	// }
 
-	// Пропускаем открывающую скобку массива
-	_, err = decoder.Token()
-	if err != nil {
-		fmt.Println("Error reading array token:", err)
-		return
-	}
+	// // Пропускаем открывающую скобку массива
+	// _, err = decoder.Token()
+	// if err != nil {
+	// 	fmt.Println("Error reading array token:", err)
+	// 	return
+	// }
 
-	// Читаем объекты по одному
-	for decoder.More() {
-		var cake dbreader.Cake
-		err := decoder.Decode(&cake)
-		if err != nil {
-			fmt.Println("Error decoding JSON-CAKE:", err)
-			return
-		}
-		// Обрабатываем каждый контакт
-		fmt.Printf("Name: %s, Time: %s\n", cake.Name, cake.Time)
-	}
+	// // Читаем объекты по одному
+	// for decoder.More() {
+	// 	var cake dbreader.Cake
+	// 	err := decoder.Decode(&cake)
+	// 	if err != nil {
+	// 		fmt.Println("Error decoding JSON-CAKE:", err)
+	// 		return
+	// 	}
+	// 	// Обрабатываем каждый контакт
+	// 	fmt.Printf("Name: %s, Time: %s\n", cake.Name, cake.Time)
+	// }
 
-	// Пропускаем закрывающую скобку массива
-	_, err = decoder.Token()
-	if err != nil {
-		fmt.Println("Error reading '}' token:", err)
-	}
+	// // Пропускаем закрывающую скобку массива
+	// _, err = decoder.Token()
+	// if err != nil {
+	// 	fmt.Println("Error reading '}' token:", err)
+	// }
 
-	var dbRecipe dbreader.Recipe
-	xmlFile, err := os.Open("../datasets/recipes001.xml")
+	xmlFile, err := os.Open("/Users/diamondp/Projects/Go_Day01-1/datasets/recipes001.xml")
 	if err != nil {
 		fmt.Println("Error opening XML file:", err)
 		return
 	}
+
 	defer xmlFile.Close()
 
+	var dbRecipe dbreader.Recipe
 	xmlDecoder := xml.NewDecoder(xmlFile)
+
 	if err := xmlDecoder.Decode(&dbRecipe); err != nil {
 		fmt.Println("Error decoding XML:", err)
 		return

@@ -13,7 +13,7 @@ type Cake struct {
 }
 
 type Recipe struct {
-	Cakes []Cake `json:"cake" xml:"recipes>cake"`
+	Cakes []Cake `json:"cake" xml:"cake"`
 }
 
 // type DBReader interface {
