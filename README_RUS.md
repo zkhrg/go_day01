@@ -152,9 +152,10 @@
 
 Перво-наперво, он стал изучать как читать из базы данных. Владелец уже имел CLI, так он решил что чтение файла будет простым, так обе из них будут работать (файлы могут различаться по расширению для простоты) 
 
-`~$ ./readDB -f original_database.xml`
-`~$ ./readDB -f stolen_database.json`
-
+```sh
+./readDB -f original_database.xml
+./readDB -f stolen_database.json
+```
 
 Не только это, он также решил что чтение обеих файлов не будет сложным производить через один интерфейс, который будет назван `DBReader`. Это означает что чтение различных форматов реализовано через разные *имплементации* одного интерфейса `DBReader`, который будет выдавать одни и те же типы объектов в результате, без разницы прочтен файл был из оригинальной базы данных или украденной. Верно, его идея это выбирать подходящую имплементацию на основе расширения файла.
 
@@ -178,13 +179,15 @@
 
 Твое приложение должно работать как-то так:
 
-`~$ ./compareDB --old original_database.xml --new stolen_database.json`
+```sh
+./compareDB --old original_database.xml --new stolen_database.json
+```
 
 Оно должно работать с обеими форматами (JSON и XML) для орининальной И новой базой данных, переиспользуя код из Упражнения 00.
 
 Вывод должен выглядить таким образом (некоторые случаи объяснены ниже):
 
-```
+```txt
 ADDED cake "Moonshine Muffin"
 REMOVED cake "Blueberry Muffin Cake"
 CHANGED cooking time for cake "Red Velvet Strawberry Cake" - "45 min" instead of "40 min"
@@ -200,17 +203,19 @@ REMOVED unit "pieces" for ingredient "Cinnamon" for cake  "Red Velvet Strawberry
 
 Копая вглубь базы данных, владелец пекарни Виллариба внезапно осознал - этот парень просто сокровище. Некоторые рецепты были улучшены значительно в сравнении со старой версией и эти новые идеи действительно творческие. Он пробился в Виллабажои нашел парня, который как сперва казалось украл его самое драгоценное наследие.
 
-...The same evening in the tavern two old bakers were hugging, drinking and laughing so hard that it was heard in both villages. They became best friends during the last couple of hours, and each of them was really happy to finally find the person who could blabber all night about cakes! Also turns out, the guy did't steal the database, he was just trying to guess by the taste and tried to improvise around a bit.
+...В этот же вечер в таверне два старых пекаря обнимались, выпивали и смеялись так сильно что это было слышно в обеих деревнях. Они стали лучшими друзьями за последние несколько частов, каждый из них был по-настоящему счастлив что наконец-то нашел человека кто мог бы болтать всю ночь о тортах. Также открылось что парень не украл базу данных, он просто пытался угадать вкус и пытался импровизировать немного.
 
-After this whole mess they both agreed to use your code, but asked you to do one last task for them. They were quite impressed by how you've managed to do the comparison between the databases, so they've also asked you to do the same thing with their server filesystem backups, so neither bakery would run into any technical issues in the future.
+После всего этого беспорядка они оба согласились использовать твой код, но попросили сделать последнее задание для них. Они приличино впечатлены тем как ты управился с сравнением между базами данных и теперь они также попросили тебя сделать похожую штуку со их сервером хранения разервных копий, так никакой пакерь не столкнется с никакаими техническими проблемами в будущем.
 
-So, your program should take two filesystem dumps.
+Так, твоя программа должна делать две(2) резервных копии. 
 
-`~$ ./compareFS --old snapshot1.txt --new snapshot2.txt`
-
-They are both plain text files, unsorted, and each of them includes a filepath on every like, like this:
-
+```sh
+./compareFS --old snapshot1.txt --new snapshot2.txt
 ```
+
+Они обе являются обычными текстовыми файлами, несортированными и каждый из них включает путь до файла, например:
+
+```txt
 /etc/stove/config.xml
 /Users/baker/recipes/database.xml
 /Users/baker/recipes/database_version3.yaml
@@ -218,13 +223,14 @@ They are both plain text files, unsorted, and each of them includes a filepath o
 /Users/baker/pokemon.avi
 ```
 
-Your tool should output the very similar thing to a previous code (without CHANGED case though):
+Твой инструмент должен выводить очень похожую штуку на предыдущий код (без CHANGED(изменено) случая конечно)
 
-```
+```txt
 ADDED /etc/systemd/system/very_important/stash_location.jpg
 REMOVED /var/log/browser_history.txt
 ```
 
-There is one issue though - the files can be really big, so you can assume both of them won't fit into RAM on the same time. There are two possible ways to overcome this - either to compress the file in memory somehow, or just read one of them and then avoid reading the other. **Side note:** this is actually a very popular interview question.
+Здесь есть еще одна проблемка правда - файлы могут быть по-настоящему большими и ты не можешь разом выгружать их в RAM (оперативную память) (они не поместятся). Тут есть два возможных пути для того чтобы это обойти, как-то сжимать их в память в памяти, или просто читать один и затем избегать чтение другого.
+**Побочная заметка**: это довольно популярный вопрос на собеседовании.
 
 
