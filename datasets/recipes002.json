@@ -6,87 +6,87 @@
       "ingredients": [
         {
           "ingredient_name": "Marsala Wine",
-          "ingredient_count": 11.08,
+          "ingredient_count": "11.08",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Marzipan",
-          "ingredient_count": 1.57,
+          "ingredient_count": "1.57",
           "ingredient_unit": "packets"
         },
         {
           "ingredient_name": "Brazil Nuts",
-          "ingredient_count": 7.74,
+          "ingredient_count": "7.74",
           "ingredient_unit": "deciliters"
         },
         {
           "ingredient_name": "Vanilla Custard",
-          "ingredient_count": 1.5,
+          "ingredient_count": "1.5",
           "ingredient_unit": "quarts"
         },
         {
           "ingredient_name": "Bananas",
-          "ingredient_count": 7.44,
+          "ingredient_count": "7.44",
           "ingredient_unit": "pints"
         },
         {
           "ingredient_name": "Chocolate Sprinkles",
-          "ingredient_count": 6.56,
+          "ingredient_count": "6.56",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Cocoa Butter",
-          "ingredient_count": 11.3,
+          "ingredient_count": "11.3",
           "ingredient_unit": "pints"
         },
         {
           "ingredient_name": "Colorful Sprinkles",
-          "ingredient_count": 5.42,
+          "ingredient_count": "5.42",
           "ingredient_unit": "slabs"
         },
         {
           "ingredient_name": "Espresso Powder",
-          "ingredient_count": 1.13,
+          "ingredient_count": "1.13",
           "ingredient_unit": "pieces"
         },
         {
           "ingredient_name": "Orange Peel",
-          "ingredient_count": 11.88,
+          "ingredient_count": "11.88",
           "ingredient_unit": "pieces"
         },
         {
           "ingredient_name": "Apricot Preserves",
-          "ingredient_count": 8.22,
+          "ingredient_count": "8.22",
           "ingredient_unit": "bars"
         },
         {
           "ingredient_name": "Saffron",
-          "ingredient_count": 10.32,
+          "ingredient_count": "10.32",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Vanilla Extract",
-          "ingredient_count": 1.37,
+          "ingredient_count": "1.37",
           "ingredient_unit": "slabs"
         },
         {
           "ingredient_name": "Maple Syrup",
-          "ingredient_count": 8.94,
+          "ingredient_count": "8.94",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Pumpkin Puree",
-          "ingredient_count": 4.63,
+          "ingredient_count": "4.63",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Rose Petals",
-          "ingredient_count": 3.87,
+          "ingredient_count": "3.87",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Cream of Tartar",
-          "ingredient_count": 6.66,
+          "ingredient_count": "6.66",
           "ingredient_unit": "cans"
         }
       ]
@@ -97,52 +97,52 @@
       "ingredients": [
         {
           "ingredient_name": "Vegetable Oil",
-          "ingredient_count": 6.41,
+          "ingredient_count": "6.41",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Chopped Mango",
-          "ingredient_count": 0.05,
+          "ingredient_count": "0.05",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Chopped Mango",
-          "ingredient_count": 7.18,
+          "ingredient_count": "7.18",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Fennel Seeds",
-          "ingredient_count": 1.14,
+          "ingredient_count": "1.14",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Whole Wheat Flour",
-          "ingredient_count": 0.19,
+          "ingredient_count": "0.19",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Port Wine",
-          "ingredient_count": 0.19,
+          "ingredient_count": "0.19",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Milk Powder",
-          "ingredient_count": 2.73,
+          "ingredient_count": "2.73",
           "ingredient_unit": "dollops"
         },
         {
           "ingredient_name": "Coconut Milk",
-          "ingredient_count": 4.69,
+          "ingredient_count": "4.69",
           "ingredient_unit": "packets"
         },
         {
           "ingredient_name": "Cinnamon Sugar",
-          "ingredient_count": 7.51,
+          "ingredient_count": "7.51",
           "ingredient_unit": "sprigs"
         },
         {
           "ingredient_name": "Cashews",
-          "ingredient_count": 8.08,
+          "ingredient_count": "8.08",
           "ingredient_unit": "sheets"
         }
       ]
@@ -153,67 +153,67 @@
       "ingredients": [
         {
           "ingredient_name": "Raspberry Jam",
-          "ingredient_count": 2.02,
+          "ingredient_count": "2.02",
           "ingredient_unit": "drops"
         },
         {
           "ingredient_name": "Lemon Extract",
-          "ingredient_count": 9.17,
+          "ingredient_count": "9.17",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Milk Powder",
-          "ingredient_count": 8.65,
+          "ingredient_count": "8.65",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Lemon Zest",
-          "ingredient_count": 10.28,
+          "ingredient_count": "10.28",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Caramel Sauce",
-          "ingredient_count": 4,
+          "ingredient_count": "4",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Pears",
-          "ingredient_count": 3.16,
+          "ingredient_count": "3.16",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Pecans",
-          "ingredient_count": 4.49,
+          "ingredient_count": "4.49",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Pastry Cream",
-          "ingredient_count": 5.17,
+          "ingredient_count": "5.17",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Sour Cream",
-          "ingredient_count": 1.67,
+          "ingredient_count": "1.67",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Flaxseeds",
-          "ingredient_count": 2.59,
+          "ingredient_count": "2.59",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Milk Chocolate",
-          "ingredient_count": 3.92,
+          "ingredient_count": "3.92",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Colorful Sprinkles",
-          "ingredient_count": 9.61,
+          "ingredient_count": "9.61",
           "ingredient_unit": "sprigs"
         },
         {
           "ingredient_name": "Buttermilk Powder",
-          "ingredient_count": 1.9,
+          "ingredient_count": "1.9",
           "ingredient_unit": "sticks"
         }
       ]
@@ -224,42 +224,42 @@
       "ingredients": [
         {
           "ingredient_name": "Lemon Juice",
-          "ingredient_count": 9.53,
+          "ingredient_count": "9.53",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Buttermilk Powder",
-          "ingredient_count": 4.15,
+          "ingredient_count": "4.15",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Chocolate Syrup",
-          "ingredient_count": 11.18,
+          "ingredient_count": "11.18",
           "ingredient_unit": "pints"
         },
         {
           "ingredient_name": "Apples",
-          "ingredient_count": 1.51,
+          "ingredient_count": "1.51",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Butter",
-          "ingredient_count": 7.67,
+          "ingredient_count": "7.67",
           "ingredient_unit": "sheets"
         },
         {
           "ingredient_name": "Strawberries",
-          "ingredient_count": 6.57,
+          "ingredient_count": "6.57",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Orange Zest",
-          "ingredient_count": 11.23,
+          "ingredient_count": "11.23",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Canola Oil",
-          "ingredient_count": 6.19,
+          "ingredient_count": "6.19",
           "ingredient_unit": "slices"
         }
       ]
@@ -270,52 +270,52 @@
       "ingredients": [
         {
           "ingredient_name": "Cinnamon",
-          "ingredient_count": 2.67,
+          "ingredient_count": "2.67",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Buttermilk",
-          "ingredient_count": 9.94,
+          "ingredient_count": "9.94",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Dark Chocolate",
-          "ingredient_count": 11.88,
+          "ingredient_count": "11.88",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Vanilla Bean",
-          "ingredient_count": 10.65,
+          "ingredient_count": "10.65",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Sunflower Seeds",
-          "ingredient_count": 2.58,
+          "ingredient_count": "2.58",
           "ingredient_unit": "ounces"
         },
         {
           "ingredient_name": "Colorful Sprinkles",
-          "ingredient_count": 8.49,
+          "ingredient_count": "8.49",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Fruit Puree",
-          "ingredient_count": 3.48,
+          "ingredient_count": "3.48",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Dried Goji Berries",
-          "ingredient_count": 1.5,
+          "ingredient_count": "1.5",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Pumpkin Puree",
-          "ingredient_count": 5.33,
+          "ingredient_count": "5.33",
           "ingredient_unit": "puffs"
         },
         {
           "ingredient_name": "Coconut Extract",
-          "ingredient_count": 6.39,
+          "ingredient_count": "6.39",
           "ingredient_unit": "cups"
         }
       ]
@@ -326,27 +326,27 @@
       "ingredients": [
         {
           "ingredient_name": "Applesauce",
-          "ingredient_count": 11.2,
+          "ingredient_count": "11.2",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Baking Powder",
-          "ingredient_count": 4.8,
+          "ingredient_count": "4.8",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Lemon Juice",
-          "ingredient_count": 7.22,
+          "ingredient_count": "7.22",
           "ingredient_unit": "ounces"
         },
         {
           "ingredient_name": "Sorghum Flour",
-          "ingredient_count": 1.83,
+          "ingredient_count": "1.83",
           "ingredient_unit": "dollops"
         },
         {
           "ingredient_name": "Apricot Preserves",
-          "ingredient_count": 1.03,
+          "ingredient_count": "1.03",
           "ingredient_unit": "chunks"
         }
       ]
@@ -357,37 +357,37 @@
       "ingredients": [
         {
           "ingredient_name": "Sorghum Flour",
-          "ingredient_count": 2.24,
+          "ingredient_count": "2.24",
           "ingredient_unit": "jars"
         },
         {
           "ingredient_name": "Brandy",
-          "ingredient_count": 6.89,
+          "ingredient_count": "6.89",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Cinnamon Sugar",
-          "ingredient_count": 7.89,
+          "ingredient_count": "7.89",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Instant Coffee",
-          "ingredient_count": 4.21,
+          "ingredient_count": "4.21",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Malt Extract",
-          "ingredient_count": 3.37,
+          "ingredient_count": "3.37",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Almond Extract",
-          "ingredient_count": 4.46,
+          "ingredient_count": "4.46",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Mango",
-          "ingredient_count": 0.39,
+          "ingredient_count": "0.39",
           "ingredient_unit": "fillets"
         }
       ]
@@ -398,62 +398,62 @@
       "ingredients": [
         {
           "ingredient_name": "Vegetable Oil",
-          "ingredient_count": 8.13,
+          "ingredient_count": "8.13",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Sherry",
-          "ingredient_count": 8.4,
+          "ingredient_count": "8.4",
           "ingredient_unit": "drops"
         },
         {
           "ingredient_name": "Dried Hibiscus",
-          "ingredient_count": 6.39,
+          "ingredient_count": "6.39",
           "ingredient_unit": "ounces"
         },
         {
           "ingredient_name": "Rum",
-          "ingredient_count": 1.67,
+          "ingredient_count": "1.67",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Dried Goji Berries",
-          "ingredient_count": 1.64,
+          "ingredient_count": "1.64",
           "ingredient_unit": "count"
         },
         {
           "ingredient_name": "Sweetened Condensed Milk",
-          "ingredient_count": 0.34,
+          "ingredient_count": "0.34",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Powdered Sugar",
-          "ingredient_count": 3.27,
+          "ingredient_count": "3.27",
           "ingredient_unit": "quarts"
         },
         {
           "ingredient_name": "Lemon Glaze",
-          "ingredient_count": 9.42,
+          "ingredient_count": "9.42",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Lemon Peel",
-          "ingredient_count": 6.15,
+          "ingredient_count": "6.15",
           "ingredient_unit": "slices"
         },
         {
           "ingredient_name": "Xanthan Gum",
-          "ingredient_count": 8.11,
+          "ingredient_count": "8.11",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Lemonade Concentrate",
-          "ingredient_count": 7.81,
+          "ingredient_count": "7.81",
           "ingredient_unit": "sheets"
         },
         {
           "ingredient_name": "Cinnamon Sugar",
-          "ingredient_count": 9.76,
+          "ingredient_count": "9.76",
           "ingredient_unit": "fillets"
         }
       ]
@@ -464,117 +464,117 @@
       "ingredients": [
         {
           "ingredient_name": "Colorful Sprinkles",
-          "ingredient_count": 5.84,
+          "ingredient_count": "5.84",
           "ingredient_unit": "drops"
         },
         {
           "ingredient_name": "Ginger",
-          "ingredient_count": 5.31,
+          "ingredient_count": "5.31",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Walnuts",
-          "ingredient_count": 3.75,
+          "ingredient_count": "3.75",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Caramel Bits",
-          "ingredient_count": 8.58,
+          "ingredient_count": "8.58",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Gluten-Free Flour",
-          "ingredient_count": 11.08,
+          "ingredient_count": "11.08",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Lemon Glaze",
-          "ingredient_count": 5.49,
+          "ingredient_count": "5.49",
           "ingredient_unit": "sprigs"
         },
         {
           "ingredient_name": "Coconut Yogurt",
-          "ingredient_count": 2.38,
+          "ingredient_count": "2.38",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Evaporated Milk",
-          "ingredient_count": 9.09,
+          "ingredient_count": "9.09",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Aquafaba",
-          "ingredient_count": 11.04,
+          "ingredient_count": "11.04",
           "ingredient_unit": "slices"
         },
         {
           "ingredient_name": "Sherry",
-          "ingredient_count": 10.75,
+          "ingredient_count": "10.75",
           "ingredient_unit": "bars"
         },
         {
           "ingredient_name": "Allspice",
-          "ingredient_count": 7.53,
+          "ingredient_count": "7.53",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Basil Extract",
-          "ingredient_count": 9.66,
+          "ingredient_count": "9.66",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Marshmallows",
-          "ingredient_count": 11.5,
+          "ingredient_count": "11.5",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Honey",
-          "ingredient_count": 0.01,
+          "ingredient_count": "0.01",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Chocolate Syrup",
-          "ingredient_count": 3.07,
+          "ingredient_count": "3.07",
           "ingredient_unit": "dollops"
         },
         {
           "ingredient_name": "Vanilla Custard",
-          "ingredient_count": 0.4,
+          "ingredient_count": "0.4",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Chocolate Frosting",
-          "ingredient_count": 0.29,
+          "ingredient_count": "0.29",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Gold Leaf",
-          "ingredient_count": 9.96,
+          "ingredient_count": "9.96",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Lemonade Concentrate",
-          "ingredient_count": 0.2,
+          "ingredient_count": "0.2",
           "ingredient_unit": "chunks"
         },
         {
           "ingredient_name": "Boursin Cheese",
-          "ingredient_count": 1.3,
+          "ingredient_count": "1.3",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Coconut Flakes",
-          "ingredient_count": 11.35,
+          "ingredient_count": "11.35",
           "ingredient_unit": "slices"
         },
         {
           "ingredient_name": "Lemon Zest",
-          "ingredient_count": 8.46,
+          "ingredient_count": "8.46",
           "ingredient_unit": "puffs"
         },
         {
           "ingredient_name": "Mascarpone Cheese",
-          "ingredient_count": 5.8,
+          "ingredient_count": "5.8",
           "ingredient_unit": "tablespoons"
         }
       ]
@@ -585,72 +585,72 @@
       "ingredients": [
         {
           "ingredient_name": "Cinnamon Sugar",
-          "ingredient_count": 2.58,
+          "ingredient_count": "2.58",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Coconut Yogurt",
-          "ingredient_count": 0.94,
+          "ingredient_count": "0.94",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Fresh Berries",
-          "ingredient_count": 7.46,
+          "ingredient_count": "7.46",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Tapioca Flour",
-          "ingredient_count": 5.67,
+          "ingredient_count": "5.67",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Gold Leaf",
-          "ingredient_count": 3.6,
+          "ingredient_count": "3.6",
           "ingredient_unit": "pints"
         },
         {
           "ingredient_name": "Royal Icing",
-          "ingredient_count": 0.14,
+          "ingredient_count": "0.14",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Coconut Butter",
-          "ingredient_count": 1.68,
+          "ingredient_count": "1.68",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Pecans",
-          "ingredient_count": 10.91,
+          "ingredient_count": "10.91",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Butter",
-          "ingredient_count": 6,
+          "ingredient_count": "6",
           "ingredient_unit": "wedges"
         },
         {
           "ingredient_name": "Fresh Berries",
-          "ingredient_count": 5.03,
+          "ingredient_count": "5.03",
           "ingredient_unit": "wedges"
         },
         {
           "ingredient_name": "Brazil Nuts",
-          "ingredient_count": 10.57,
+          "ingredient_count": "10.57",
           "ingredient_unit": "puffs"
         },
         {
           "ingredient_name": "Cornmeal",
-          "ingredient_count": 9.18,
+          "ingredient_count": "9.18",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Eggs",
-          "ingredient_count": 0.97,
+          "ingredient_count": "0.97",
           "ingredient_unit": "quarts"
         },
         {
           "ingredient_name": "Sugar",
-          "ingredient_count": 5.91,
+          "ingredient_count": "5.91",
           "ingredient_unit": "pounds"
         }
       ]
@@ -661,92 +661,92 @@
       "ingredients": [
         {
           "ingredient_name": "Rum",
-          "ingredient_count": 11.28,
+          "ingredient_count": "11.28",
           "ingredient_unit": "pieces"
         },
         {
           "ingredient_name": "Silver Dragees",
-          "ingredient_count": 2.21,
+          "ingredient_count": "2.21",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Lemon Peel",
-          "ingredient_count": 8.62,
+          "ingredient_count": "8.62",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Guar Gum",
-          "ingredient_count": 5.42,
+          "ingredient_count": "5.42",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Chopped Dates",
-          "ingredient_count": 3.95,
+          "ingredient_count": "3.95",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Cloves",
-          "ingredient_count": 0.39,
+          "ingredient_count": "0.39",
           "ingredient_unit": "cans"
         },
         {
           "ingredient_name": "Baking Soda",
-          "ingredient_count": 3.97,
+          "ingredient_count": "3.97",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Glaze",
-          "ingredient_count": 9.02,
+          "ingredient_count": "9.02",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Dark Chocolate",
-          "ingredient_count": 5.62,
+          "ingredient_count": "5.62",
           "ingredient_unit": "dollops"
         },
         {
           "ingredient_name": "Lemon Curd",
-          "ingredient_count": 0.27,
+          "ingredient_count": "0.27",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Dried Hibiscus",
-          "ingredient_count": 10.54,
+          "ingredient_count": "10.54",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Flavored Gelatin",
-          "ingredient_count": 3.22,
+          "ingredient_count": "3.22",
           "ingredient_unit": "bars"
         },
         {
           "ingredient_name": "Dried Lavender",
-          "ingredient_count": 3.32,
+          "ingredient_count": "3.32",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Baking Soda",
-          "ingredient_count": 3.57,
+          "ingredient_count": "3.57",
           "ingredient_unit": "cans"
         },
         {
           "ingredient_name": "Chocolate Sprinkles",
-          "ingredient_count": 1.27,
+          "ingredient_count": "1.27",
           "ingredient_unit": "slices"
         },
         {
           "ingredient_name": "Lemon Extract",
-          "ingredient_count": 3.59,
+          "ingredient_count": "3.59",
           "ingredient_unit": "rings"
         },
         {
           "ingredient_name": "Maple Extract",
-          "ingredient_count": 5.82,
+          "ingredient_count": "5.82",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Ginger",
-          "ingredient_count": 7.64,
+          "ingredient_count": "7.64",
           "ingredient_unit": "slabs"
         }
       ]
@@ -757,92 +757,92 @@
       "ingredients": [
         {
           "ingredient_name": "Basil Extract",
-          "ingredient_count": 2.9,
+          "ingredient_count": "2.9",
           "ingredient_unit": "dollops"
         },
         {
           "ingredient_name": "Pineapple",
-          "ingredient_count": 6.93,
+          "ingredient_count": "6.93",
           "ingredient_unit": "slabs"
         },
         {
           "ingredient_name": "Coconut Yogurt",
-          "ingredient_count": 6.28,
+          "ingredient_count": "6.28",
           "ingredient_unit": "deciliters"
         },
         {
           "ingredient_name": "Marzipan",
-          "ingredient_count": 7.5,
+          "ingredient_count": "7.5",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Fruit Syrup",
-          "ingredient_count": 3.6,
+          "ingredient_count": "3.6",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Molasses Powder",
-          "ingredient_count": 11.03,
+          "ingredient_count": "11.03",
           "ingredient_unit": "quarts"
         },
         {
           "ingredient_name": "Buttermilk",
-          "ingredient_count": 9.91,
+          "ingredient_count": "9.91",
           "ingredient_unit": "sprigs"
         },
         {
           "ingredient_name": "Vanilla Bean",
-          "ingredient_count": 10.58,
+          "ingredient_count": "10.58",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Tapioca Flour",
-          "ingredient_count": 5.69,
+          "ingredient_count": "5.69",
           "ingredient_unit": "jars"
         },
         {
           "ingredient_name": "Coconut Butter",
-          "ingredient_count": 5.52,
+          "ingredient_count": "5.52",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Kahlua",
-          "ingredient_count": 8.76,
+          "ingredient_count": "8.76",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Molasses",
-          "ingredient_count": 6.9,
+          "ingredient_count": "6.9",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Elderflower Syrup",
-          "ingredient_count": 9.35,
+          "ingredient_count": "9.35",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Pears",
-          "ingredient_count": 11.85,
+          "ingredient_count": "11.85",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Coconut Yogurt",
-          "ingredient_count": 3.03,
+          "ingredient_count": "3.03",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Orange Peel",
-          "ingredient_count": 6.56,
+          "ingredient_count": "6.56",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Orange Juice",
-          "ingredient_count": 1.56,
+          "ingredient_count": "1.56",
           "ingredient_unit": "packets"
         },
         {
           "ingredient_name": "Coconut Yogurt",
-          "ingredient_count": 1.8,
+          "ingredient_count": "1.8",
           "ingredient_unit": "deciliters"
         }
       ]
@@ -853,112 +853,112 @@
       "ingredients": [
         {
           "ingredient_name": "Malt Extract",
-          "ingredient_count": 11.6,
+          "ingredient_count": "11.6",
           "ingredient_unit": "chunks"
         },
         {
           "ingredient_name": "Pecans",
-          "ingredient_count": 9.66,
+          "ingredient_count": "9.66",
           "ingredient_unit": "count"
         },
         {
           "ingredient_name": "Tapioca Flour",
-          "ingredient_count": 8.93,
+          "ingredient_count": "8.93",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Sweetened Condensed Milk",
-          "ingredient_count": 7.31,
+          "ingredient_count": "7.31",
           "ingredient_unit": "ounces"
         },
         {
           "ingredient_name": "Heavy Cream",
-          "ingredient_count": 9.35,
+          "ingredient_count": "9.35",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Cornmeal",
-          "ingredient_count": 3.44,
+          "ingredient_count": "3.44",
           "ingredient_unit": "jars"
         },
         {
           "ingredient_name": "Vanilla Custard",
-          "ingredient_count": 1.16,
+          "ingredient_count": "1.16",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Coconut Milk",
-          "ingredient_count": 1.11,
+          "ingredient_count": "1.11",
           "ingredient_unit": "sheets"
         },
         {
           "ingredient_name": "Port Wine",
-          "ingredient_count": 2.68,
+          "ingredient_count": "2.68",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Cream Cheese Frosting",
-          "ingredient_count": 3.34,
+          "ingredient_count": "3.34",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Basil Extract",
-          "ingredient_count": 6.03,
+          "ingredient_count": "6.03",
           "ingredient_unit": "sheets"
         },
         {
           "ingredient_name": "Amaretto",
-          "ingredient_count": 1.93,
+          "ingredient_count": "1.93",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Pumpkin Seeds",
-          "ingredient_count": 9.46,
+          "ingredient_count": "9.46",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Sherry",
-          "ingredient_count": 1.75,
+          "ingredient_count": "1.75",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Lemon Peel",
-          "ingredient_count": 8.39,
+          "ingredient_count": "8.39",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Lavender Extract",
-          "ingredient_count": 6.01,
+          "ingredient_count": "6.01",
           "ingredient_unit": "chunks"
         },
         {
           "ingredient_name": "Basil Leaves",
-          "ingredient_count": 4,
+          "ingredient_count": "4",
           "ingredient_unit": "count"
         },
         {
           "ingredient_name": "Cocoa Powder",
-          "ingredient_count": 0.54,
+          "ingredient_count": "0.54",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Ginger Ale",
-          "ingredient_count": 4.35,
+          "ingredient_count": "4.35",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Chocolate Frosting",
-          "ingredient_count": 3.32,
+          "ingredient_count": "3.32",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Chopped Pecans",
-          "ingredient_count": 1.89,
+          "ingredient_count": "1.89",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Prunes",
-          "ingredient_count": 3.24,
+          "ingredient_count": "3.24",
           "ingredient_unit": "grams"
         }
       ]
@@ -969,52 +969,52 @@
       "ingredients": [
         {
           "ingredient_name": "Pumpkin Seeds",
-          "ingredient_count": 10.26,
+          "ingredient_count": "10.26",
           "ingredient_unit": "ounces"
         },
         {
           "ingredient_name": "Fruit Puree",
-          "ingredient_count": 10.85,
+          "ingredient_count": "10.85",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Basil Extract",
-          "ingredient_count": 9.84,
+          "ingredient_count": "9.84",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Orange Zest",
-          "ingredient_count": 7.94,
+          "ingredient_count": "7.94",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Graham Cracker Crumbs",
-          "ingredient_count": 4.9,
+          "ingredient_count": "4.9",
           "ingredient_unit": "sprigs"
         },
         {
           "ingredient_name": "Chocolate Syrup",
-          "ingredient_count": 4.67,
+          "ingredient_count": "4.67",
           "ingredient_unit": "chunks"
         },
         {
           "ingredient_name": "Dried Cranberries",
-          "ingredient_count": 1.1,
+          "ingredient_count": "1.1",
           "ingredient_unit": "drops"
         },
         {
           "ingredient_name": "Chocolate Ganache",
-          "ingredient_count": 0.56,
+          "ingredient_count": "0.56",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Malt Extract",
-          "ingredient_count": 4.24,
+          "ingredient_count": "4.24",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Orange Extract",
-          "ingredient_count": 3.29,
+          "ingredient_count": "3.29",
           "ingredient_unit": "cans"
         }
       ]
@@ -1025,82 +1025,82 @@
       "ingredients": [
         {
           "ingredient_name": "Brazil Nuts",
-          "ingredient_count": 5.1,
+          "ingredient_count": "5.1",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Baking Powder",
-          "ingredient_count": 10.88,
+          "ingredient_count": "10.88",
           "ingredient_unit": "jars"
         },
         {
           "ingredient_name": "Peanut Butter",
-          "ingredient_count": 2.43,
+          "ingredient_count": "2.43",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Amaretto",
-          "ingredient_count": 11.58,
+          "ingredient_count": "11.58",
           "ingredient_unit": "quarts"
         },
         {
           "ingredient_name": "Mango",
-          "ingredient_count": 7.32,
+          "ingredient_count": "7.32",
           "ingredient_unit": "count"
         },
         {
           "ingredient_name": "Peach",
-          "ingredient_count": 4.5,
+          "ingredient_count": "4.5",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Basil Leaves",
-          "ingredient_count": 9.08,
+          "ingredient_count": "9.08",
           "ingredient_unit": "slabs"
         },
         {
           "ingredient_name": "Star Anise",
-          "ingredient_count": 4.69,
+          "ingredient_count": "4.69",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Flaxseeds",
-          "ingredient_count": 7.16,
+          "ingredient_count": "7.16",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Raspberry Jam",
-          "ingredient_count": 4.48,
+          "ingredient_count": "4.48",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Dried Cranberries",
-          "ingredient_count": 3.08,
+          "ingredient_count": "3.08",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Gelatin",
-          "ingredient_count": 7.02,
+          "ingredient_count": "7.02",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Dried Figs",
-          "ingredient_count": 6.48,
+          "ingredient_count": "6.48",
           "ingredient_unit": "cans"
         },
         {
           "ingredient_name": "Cocoa Butter",
-          "ingredient_count": 1.14,
+          "ingredient_count": "1.14",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Lemon Peel",
-          "ingredient_count": 1.47,
+          "ingredient_count": "1.47",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Coconut Flakes",
-          "ingredient_count": 3.52,
+          "ingredient_count": "3.52",
           "ingredient_unit": "quarts"
         }
       ]
@@ -1111,82 +1111,82 @@
       "ingredients": [
         {
           "ingredient_name": "Salt",
-          "ingredient_count": 3.36,
+          "ingredient_count": "3.36",
           "ingredient_unit": "dollops"
         },
         {
           "ingredient_name": "Butter",
-          "ingredient_count": 9.68,
+          "ingredient_count": "9.68",
           "ingredient_unit": "wedges"
         },
         {
           "ingredient_name": "Chocolate Shavings",
-          "ingredient_count": 8.01,
+          "ingredient_count": "8.01",
           "ingredient_unit": "quarts"
         },
         {
           "ingredient_name": "Edible Flowers",
-          "ingredient_count": 10.53,
+          "ingredient_count": "10.53",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Sweetened Coconut",
-          "ingredient_count": 7.33,
+          "ingredient_count": "7.33",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Cinnamon Sugar",
-          "ingredient_count": 1.04,
+          "ingredient_count": "1.04",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Sugar",
-          "ingredient_count": 10.05,
+          "ingredient_count": "10.05",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Mango",
-          "ingredient_count": 5.84,
+          "ingredient_count": "5.84",
           "ingredient_unit": "rings"
         },
         {
           "ingredient_name": "Fruit Liqueur",
-          "ingredient_count": 3.26,
+          "ingredient_count": "3.26",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Cinnamon",
-          "ingredient_count": 4.87,
+          "ingredient_count": "4.87",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Mint Extract",
-          "ingredient_count": 3.45,
+          "ingredient_count": "3.45",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Fruit Puree",
-          "ingredient_count": 3.42,
+          "ingredient_count": "3.42",
           "ingredient_unit": "packets"
         },
         {
           "ingredient_name": "Walnuts",
-          "ingredient_count": 1.45,
+          "ingredient_count": "1.45",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Orange Juice",
-          "ingredient_count": 2.82,
+          "ingredient_count": "2.82",
           "ingredient_unit": "puffs"
         },
         {
           "ingredient_name": "Macadamia Nuts",
-          "ingredient_count": 9.79,
+          "ingredient_count": "9.79",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Cashews",
-          "ingredient_count": 4.36,
+          "ingredient_count": "4.36",
           "ingredient_unit": "pints"
         }
       ]
@@ -1197,27 +1197,27 @@
       "ingredients": [
         {
           "ingredient_name": "Instant Coffee",
-          "ingredient_count": 1.73,
+          "ingredient_count": "1.73",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "White Sesame Seeds",
-          "ingredient_count": 9.44,
+          "ingredient_count": "9.44",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Fruit Syrup",
-          "ingredient_count": 11.27,
+          "ingredient_count": "11.27",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Apples",
-          "ingredient_count": 6.28,
+          "ingredient_count": "6.28",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Basil Extract",
-          "ingredient_count": 8.58,
+          "ingredient_count": "8.58",
           "ingredient_unit": "tablespoons"
         }
       ]
@@ -1228,67 +1228,67 @@
       "ingredients": [
         {
           "ingredient_name": "Fresh Berries",
-          "ingredient_count": 5.67,
+          "ingredient_count": "5.67",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Dried Cranberries",
-          "ingredient_count": 3.47,
+          "ingredient_count": "3.47",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Rose Petals",
-          "ingredient_count": 3.93,
+          "ingredient_count": "3.93",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Allspice",
-          "ingredient_count": 8.14,
+          "ingredient_count": "8.14",
           "ingredient_unit": "slices"
         },
         {
           "ingredient_name": "Raspberry Jam",
-          "ingredient_count": 6.11,
+          "ingredient_count": "6.11",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Amaretto",
-          "ingredient_count": 3.1,
+          "ingredient_count": "3.1",
           "ingredient_unit": "sprigs"
         },
         {
           "ingredient_name": "Powdered Sugar",
-          "ingredient_count": 5.54,
+          "ingredient_count": "5.54",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Saffron",
-          "ingredient_count": 2.97,
+          "ingredient_count": "2.97",
           "ingredient_unit": "sheets"
         },
         {
           "ingredient_name": "Royal Icing",
-          "ingredient_count": 6.79,
+          "ingredient_count": "6.79",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Boursin Cheese",
-          "ingredient_count": 1.29,
+          "ingredient_count": "1.29",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Basil Extract",
-          "ingredient_count": 3.15,
+          "ingredient_count": "3.15",
           "ingredient_unit": "deciliters"
         },
         {
           "ingredient_name": "Mint Extract",
-          "ingredient_count": 3.3,
+          "ingredient_count": "3.3",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Cornstarch",
-          "ingredient_count": 7.12,
+          "ingredient_count": "7.12",
           "ingredient_unit": "bunches"
         }
       ]
@@ -1299,62 +1299,62 @@
       "ingredients": [
         {
           "ingredient_name": "Sparkling Water",
-          "ingredient_count": 1.53,
+          "ingredient_count": "1.53",
           "ingredient_unit": "packets"
         },
         {
           "ingredient_name": "Almond Extract",
-          "ingredient_count": 6.5,
+          "ingredient_count": "6.5",
           "ingredient_unit": "packets"
         },
         {
           "ingredient_name": "Silver Dragees",
-          "ingredient_count": 7.05,
+          "ingredient_count": "7.05",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Chocolate Frosting",
-          "ingredient_count": 3.87,
+          "ingredient_count": "3.87",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Marzipan",
-          "ingredient_count": 2.22,
+          "ingredient_count": "2.22",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Espresso Powder",
-          "ingredient_count": 0.16,
+          "ingredient_count": "0.16",
           "ingredient_unit": "quarts"
         },
         {
           "ingredient_name": "Hazelnut Paste",
-          "ingredient_count": 5.33,
+          "ingredient_count": "5.33",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Dried Lavender",
-          "ingredient_count": 1.12,
+          "ingredient_count": "1.12",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Fruit Puree",
-          "ingredient_count": 3.66,
+          "ingredient_count": "3.66",
           "ingredient_unit": "ounces"
         },
         {
           "ingredient_name": "Strawberries",
-          "ingredient_count": 3.41,
+          "ingredient_count": "3.41",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Silken Tofu",
-          "ingredient_count": 9.14,
+          "ingredient_count": "9.14",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Pistachios",
-          "ingredient_count": 0.99,
+          "ingredient_count": "0.99",
           "ingredient_unit": "tablespoons"
         }
       ]
@@ -1365,57 +1365,57 @@
       "ingredients": [
         {
           "ingredient_name": "Orange Juice",
-          "ingredient_count": 10.4,
+          "ingredient_count": "10.4",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Orange Marmalade",
-          "ingredient_count": 1.39,
+          "ingredient_count": "1.39",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "White Sesame Seeds",
-          "ingredient_count": 4.41,
+          "ingredient_count": "4.41",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Dried Lavender",
-          "ingredient_count": 6.21,
+          "ingredient_count": "6.21",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Rum",
-          "ingredient_count": 5.64,
+          "ingredient_count": "5.64",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Mint Leaves",
-          "ingredient_count": 11.04,
+          "ingredient_count": "11.04",
           "ingredient_unit": "deciliters"
         },
         {
           "ingredient_name": "Sparkling Water",
-          "ingredient_count": 11.26,
+          "ingredient_count": "11.26",
           "ingredient_unit": "puffs"
         },
         {
           "ingredient_name": "Basil Leaves",
-          "ingredient_count": 0.33,
+          "ingredient_count": "0.33",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Sugar",
-          "ingredient_count": 6.48,
+          "ingredient_count": "6.48",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Boursin Cheese",
-          "ingredient_count": 10.9,
+          "ingredient_count": "10.9",
           "ingredient_unit": "puffs"
         },
         {
           "ingredient_name": "Almond Extract",
-          "ingredient_count": 10.43,
+          "ingredient_count": "10.43",
           "ingredient_unit": "chunks"
         }
       ]
@@ -1426,87 +1426,87 @@
       "ingredients": [
         {
           "ingredient_name": "Kahlua",
-          "ingredient_count": 1.75,
+          "ingredient_count": "1.75",
           "ingredient_unit": "pints"
         },
         {
           "ingredient_name": "Silken Tofu",
-          "ingredient_count": 2.09,
+          "ingredient_count": "2.09",
           "ingredient_unit": "slabs"
         },
         {
           "ingredient_name": "Raisins",
-          "ingredient_count": 2.12,
+          "ingredient_count": "2.12",
           "ingredient_unit": "slices"
         },
         {
           "ingredient_name": "Boursin Cheese",
-          "ingredient_count": 10.19,
+          "ingredient_count": "10.19",
           "ingredient_unit": "bars"
         },
         {
           "ingredient_name": "Flavored Gelatin",
-          "ingredient_count": 2.9,
+          "ingredient_count": "2.9",
           "ingredient_unit": "puffs"
         },
         {
           "ingredient_name": "Whipped Cream",
-          "ingredient_count": 3.12,
+          "ingredient_count": "3.12",
           "ingredient_unit": "jars"
         },
         {
           "ingredient_name": "Prunes",
-          "ingredient_count": 0.03,
+          "ingredient_count": "0.03",
           "ingredient_unit": "sheets"
         },
         {
           "ingredient_name": "Ricotta Cheese",
-          "ingredient_count": 4.97,
+          "ingredient_count": "4.97",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Cinnamon",
-          "ingredient_count": 0.79,
+          "ingredient_count": "0.79",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Ginger",
-          "ingredient_count": 5.54,
+          "ingredient_count": "5.54",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Brown Sugar",
-          "ingredient_count": 2.11,
+          "ingredient_count": "2.11",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Brandy",
-          "ingredient_count": 9.67,
+          "ingredient_count": "9.67",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Port Wine",
-          "ingredient_count": 8.63,
+          "ingredient_count": "8.63",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Coconut Oil",
-          "ingredient_count": 4,
+          "ingredient_count": "4",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Hazelnut Paste",
-          "ingredient_count": 11.25,
+          "ingredient_count": "11.25",
           "ingredient_unit": "drops"
         },
         {
           "ingredient_name": "Coconut Cream",
-          "ingredient_count": 11.38,
+          "ingredient_count": "11.38",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Buttermilk Powder",
-          "ingredient_count": 5.62,
+          "ingredient_count": "5.62",
           "ingredient_unit": "teaspoons"
         }
       ]
@@ -1517,32 +1517,32 @@
       "ingredients": [
         {
           "ingredient_name": "Dried Goji Berries",
-          "ingredient_count": 8.46,
+          "ingredient_count": "8.46",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Sugar",
-          "ingredient_count": 5.53,
+          "ingredient_count": "5.53",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Brazil Nuts",
-          "ingredient_count": 0.51,
+          "ingredient_count": "0.51",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Guar Gum",
-          "ingredient_count": 4.62,
+          "ingredient_count": "4.62",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Chopped Dates",
-          "ingredient_count": 2.4,
+          "ingredient_count": "2.4",
           "ingredient_unit": "drops"
         },
         {
           "ingredient_name": "Basil Leaves",
-          "ingredient_count": 4.68,
+          "ingredient_count": "4.68",
           "ingredient_unit": "bunches"
         }
       ]
@@ -1553,47 +1553,46 @@
       "ingredients": [
         {
           "ingredient_name": "Cinnamon Stick",
-          "ingredient_count": 8.21,
+          "ingredient_count": "8.21",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Pumpkin Puree",
-          "ingredient_count": 4.5,
+          "ingredient_count": "4.5",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Sweet Rice Flour",
-          "ingredient_count": 5.21,
+          "ingredient_count": "5.21",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Malt Extract",
-          "ingredient_count": 7.56,
+          "ingredient_count": "7.56",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Spelt Flour",
-          "ingredient_count": 5.61,
+          "ingredient_count": "5.61",
           "ingredient_unit": "chunks"
         },
         {
           "ingredient_name": "Molasses",
-          "ingredient_count": 4.3,
-          "ingredient_unit": "cups"
+          "ingredient_count": "4.3"
         },
         {
           "ingredient_name": "Lemon Curd",
-          "ingredient_count": 6.48,
+          "ingredient_count": "6.48",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Whole Wheat Flour",
-          "ingredient_count": 9.53,
+          "ingredient_count": "9.53",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Maple Extract",
-          "ingredient_count": 9.37,
+          "ingredient_count": "9.37",
           "ingredient_unit": "scoops"
         }
       ]
@@ -1604,112 +1603,112 @@
       "ingredients": [
         {
           "ingredient_name": "Cornmeal",
-          "ingredient_count": 10.68,
+          "ingredient_count": "10.68",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Hemp Seeds",
-          "ingredient_count": 0.77,
+          "ingredient_count": "0.77",
           "ingredient_unit": "cans"
         },
         {
           "ingredient_name": "Whole Wheat Flour",
-          "ingredient_count": 4.75,
+          "ingredient_count": "4.75",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Chocolate Ganache",
-          "ingredient_count": 11.36,
+          "ingredient_count": "11.36",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Caramel Sauce",
-          "ingredient_count": 2.35,
+          "ingredient_count": "2.35",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Brown Butter",
-          "ingredient_count": 8.44,
+          "ingredient_count": "8.44",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Fruit Puree",
-          "ingredient_count": 10.69,
+          "ingredient_count": "10.69",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Vegetable Oil",
-          "ingredient_count": 8.07,
+          "ingredient_count": "8.07",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Marzipan",
-          "ingredient_count": 11.32,
+          "ingredient_count": "11.32",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Boursin Cheese",
-          "ingredient_count": 0.45,
+          "ingredient_count": "0.45",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Marsala Wine",
-          "ingredient_count": 0.36,
+          "ingredient_count": "0.36",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Baking Soda",
-          "ingredient_count": 3.94,
+          "ingredient_count": "3.94",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Orange Peel",
-          "ingredient_count": 7.75,
+          "ingredient_count": "7.75",
           "ingredient_unit": "centiliters"
         },
         {
           "ingredient_name": "Cocoa Powder",
-          "ingredient_count": 9.56,
+          "ingredient_count": "9.56",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Sweet Rice Flour",
-          "ingredient_count": 6.01,
+          "ingredient_count": "6.01",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Fruit Syrup",
-          "ingredient_count": 2.38,
+          "ingredient_count": "2.38",
           "ingredient_unit": "count"
         },
         {
           "ingredient_name": "Glaze",
-          "ingredient_count": 1.22,
+          "ingredient_count": "1.22",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Milk Powder",
-          "ingredient_count": 4.58,
+          "ingredient_count": "4.58",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Royal Icing",
-          "ingredient_count": 4.44,
+          "ingredient_count": "4.44",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Prunes",
-          "ingredient_count": 1.35,
+          "ingredient_count": "1.35",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Sour Cream",
-          "ingredient_count": 2.59,
+          "ingredient_count": "2.59",
           "ingredient_unit": "jars"
         },
         {
           "ingredient_name": "Walnuts",
-          "ingredient_count": 2.98,
+          "ingredient_count": "2.98",
           "ingredient_unit": "pints"
         }
       ]
@@ -1720,117 +1719,117 @@
       "ingredients": [
         {
           "ingredient_name": "Cornmeal",
-          "ingredient_count": 8.23,
+          "ingredient_count": "8.23",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Dried Hibiscus",
-          "ingredient_count": 0.89,
+          "ingredient_count": "0.89",
           "ingredient_unit": "pints"
         },
         {
           "ingredient_name": "Cacao Nibs",
-          "ingredient_count": 6.1,
+          "ingredient_count": "6.1",
           "ingredient_unit": "jars"
         },
         {
           "ingredient_name": "Boursin Cheese",
-          "ingredient_count": 11.44,
+          "ingredient_count": "11.44",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Sesame Seeds",
-          "ingredient_count": 7.37,
+          "ingredient_count": "7.37",
           "ingredient_unit": "milliliters"
         },
         {
           "ingredient_name": "Macadamia Nuts",
-          "ingredient_count": 7.82,
+          "ingredient_count": "7.82",
           "ingredient_unit": "wedges"
         },
         {
           "ingredient_name": "Flaxseeds",
-          "ingredient_count": 9.59,
+          "ingredient_count": "9.59",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Brazil Nuts",
-          "ingredient_count": 6.97,
+          "ingredient_count": "6.97",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Caramel Sauce",
-          "ingredient_count": 7.31,
+          "ingredient_count": "7.31",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Fondant",
-          "ingredient_count": 2.66,
+          "ingredient_count": "2.66",
           "ingredient_unit": "dollops"
         },
         {
           "ingredient_name": "Tapioca Flour",
-          "ingredient_count": 0.53,
+          "ingredient_count": "0.53",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Cream Cheese",
-          "ingredient_count": 10.69,
+          "ingredient_count": "10.69",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Apricot Preserves",
-          "ingredient_count": 6.27,
+          "ingredient_count": "6.27",
           "ingredient_unit": "scoops"
         },
         {
           "ingredient_name": "Fondant",
-          "ingredient_count": 3.42,
+          "ingredient_count": "3.42",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Hemp Seeds",
-          "ingredient_count": 2.71,
+          "ingredient_count": "2.71",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Saffron",
-          "ingredient_count": 0.2,
+          "ingredient_count": "0.2",
           "ingredient_unit": "cubes"
         },
         {
           "ingredient_name": "Buttermilk Powder",
-          "ingredient_count": 11.33,
+          "ingredient_count": "11.33",
           "ingredient_unit": "pinches"
         },
         {
           "ingredient_name": "Grand Marnier",
-          "ingredient_count": 1.1,
+          "ingredient_count": "1.1",
           "ingredient_unit": "sprigs"
         },
         {
           "ingredient_name": "Whole Wheat Flour",
-          "ingredient_count": 5.4,
+          "ingredient_count": "5.4",
           "ingredient_unit": "count"
         },
         {
           "ingredient_name": "Prunes",
-          "ingredient_count": 9.03,
+          "ingredient_count": "9.03",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Powdered Sugar",
-          "ingredient_count": 5.07,
+          "ingredient_count": "5.07",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Maple Syrup",
-          "ingredient_count": 9.47,
+          "ingredient_count": "9.47",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Maple Extract",
-          "ingredient_count": 6.74,
+          "ingredient_count": "6.74",
           "ingredient_unit": "tablespoons"
         }
       ]
@@ -1841,82 +1840,82 @@
       "ingredients": [
         {
           "ingredient_name": "Cocoa Butter",
-          "ingredient_count": 2.61,
+          "ingredient_count": "2.61",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Cloves",
-          "ingredient_count": 0.3,
+          "ingredient_count": "0.3",
           "ingredient_unit": "bunches"
         },
         {
           "ingredient_name": "Turmeric",
-          "ingredient_count": 0.87,
+          "ingredient_count": "0.87",
           "ingredient_unit": "pieces"
         },
         {
           "ingredient_name": "Lemon Curd",
-          "ingredient_count": 7.48,
+          "ingredient_count": "7.48",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Peanut Brittle",
-          "ingredient_count": 8.01,
+          "ingredient_count": "8.01",
           "ingredient_unit": "sprigs"
         },
         {
           "ingredient_name": "Applesauce",
-          "ingredient_count": 4.34,
+          "ingredient_count": "4.34",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Silken Tofu",
-          "ingredient_count": 3.36,
+          "ingredient_count": "3.36",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Vanilla Powder",
-          "ingredient_count": 9.75,
+          "ingredient_count": "9.75",
           "ingredient_unit": "pieces"
         },
         {
           "ingredient_name": "Orange Extract",
-          "ingredient_count": 4.19,
+          "ingredient_count": "4.19",
           "ingredient_unit": "puffs"
         },
         {
           "ingredient_name": "Bananas",
-          "ingredient_count": 10.91,
+          "ingredient_count": "10.91",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Cornmeal",
-          "ingredient_count": 1.3,
+          "ingredient_count": "1.3",
           "ingredient_unit": "rings"
         },
         {
           "ingredient_name": "Lavender Extract",
-          "ingredient_count": 9.54,
+          "ingredient_count": "9.54",
           "ingredient_unit": "grams"
         },
         {
           "ingredient_name": "Pineapple",
-          "ingredient_count": 8.84,
+          "ingredient_count": "8.84",
           "ingredient_unit": "pieces"
         },
         {
           "ingredient_name": "Chopped Nuts",
-          "ingredient_count": 3.61,
+          "ingredient_count": "3.61",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Pumpkin Seeds",
-          "ingredient_count": 3.14,
+          "ingredient_count": "3.14",
           "ingredient_unit": "bars"
         },
         {
           "ingredient_name": "Caramel Sauce",
-          "ingredient_count": 4.15,
+          "ingredient_count": "4.15",
           "ingredient_unit": "cubes"
         }
       ]
@@ -1927,77 +1926,77 @@
       "ingredients": [
         {
           "ingredient_name": "Chopped Pecans",
-          "ingredient_count": 3.51,
+          "ingredient_count": "3.51",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Whole Wheat Flour",
-          "ingredient_count": 0.65,
+          "ingredient_count": "0.65",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Sweetened Condensed Milk",
-          "ingredient_count": 0.79,
+          "ingredient_count": "0.79",
           "ingredient_unit": "jars"
         },
         {
           "ingredient_name": "Espresso Powder",
-          "ingredient_count": 2.15,
+          "ingredient_count": "2.15",
           "ingredient_unit": "dollops"
         },
         {
           "ingredient_name": "Heavy Cream",
-          "ingredient_count": 11.28,
+          "ingredient_count": "11.28",
           "ingredient_unit": "pieces"
         },
         {
           "ingredient_name": "Fresh Berries",
-          "ingredient_count": 8.25,
+          "ingredient_count": "8.25",
           "ingredient_unit": "packets"
         },
         {
           "ingredient_name": "Pumpkin Seeds",
-          "ingredient_count": 10.22,
+          "ingredient_count": "10.22",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Black Sesame Seeds",
-          "ingredient_count": 0.75,
+          "ingredient_count": "0.75",
           "ingredient_unit": "sheets"
         },
         {
           "ingredient_name": "Chocolate Syrup",
-          "ingredient_count": 10.21,
+          "ingredient_count": "10.21",
           "ingredient_unit": "drizzles"
         },
         {
           "ingredient_name": "Molasses",
-          "ingredient_count": 8.86,
+          "ingredient_count": "8.86",
           "ingredient_unit": "deciliters"
         },
         {
           "ingredient_name": "Vanilla Custard",
-          "ingredient_count": 0.58,
+          "ingredient_count": "0.58",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Sherry",
-          "ingredient_count": 10.2,
+          "ingredient_count": "10.2",
           "ingredient_unit": "chunks"
         },
         {
           "ingredient_name": "Graham Cracker Crumbs",
-          "ingredient_count": 7.52,
+          "ingredient_count": "7.52",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Dried Apricots",
-          "ingredient_count": 4.17,
+          "ingredient_count": "4.17",
           "ingredient_unit": "wedges"
         },
         {
           "ingredient_name": "White Chocolate",
-          "ingredient_count": 6.75,
+          "ingredient_count": "6.75",
           "ingredient_unit": "liters"
         }
       ]
@@ -2008,92 +2007,92 @@
       "ingredients": [
         {
           "ingredient_name": "Coconut Yogurt",
-          "ingredient_count": 7.37,
+          "ingredient_count": "7.37",
           "ingredient_unit": "sticks"
         },
         {
           "ingredient_name": "Apples",
-          "ingredient_count": 7.06,
+          "ingredient_count": "7.06",
           "ingredient_unit": "cups"
         },
         {
           "ingredient_name": "Chocolate Sprinkles",
-          "ingredient_count": 11.46,
+          "ingredient_count": "11.46",
           "ingredient_unit": "pounds"
         },
         {
           "ingredient_name": "Buttermilk Substitute",
-          "ingredient_count": 11.12,
+          "ingredient_count": "11.12",
           "ingredient_unit": "fillets"
         },
         {
           "ingredient_name": "Sweetened Condensed Milk",
-          "ingredient_count": 3.06,
+          "ingredient_count": "3.06",
           "ingredient_unit": "slices"
         },
         {
           "ingredient_name": "Pumpkin Puree",
-          "ingredient_count": 5.86,
+          "ingredient_count": "5.86",
           "ingredient_unit": "teaspoons"
         },
         {
           "ingredient_name": "Orange Extract",
-          "ingredient_count": 1.57,
+          "ingredient_count": "1.57",
           "ingredient_unit": "drops"
         },
         {
           "ingredient_name": "Sesame Seeds",
-          "ingredient_count": 6.35,
+          "ingredient_count": "6.35",
           "ingredient_unit": "count"
         },
         {
           "ingredient_name": "Powdered Sugar",
-          "ingredient_count": 3.65,
+          "ingredient_count": "3.65",
           "ingredient_unit": "pints"
         },
         {
           "ingredient_name": "Fruit Liqueur",
-          "ingredient_count": 8.05,
+          "ingredient_count": "8.05",
           "ingredient_unit": "packets"
         },
         {
           "ingredient_name": "Cinnamon",
-          "ingredient_count": 8.42,
+          "ingredient_count": "8.42",
           "ingredient_unit": "liters"
         },
         {
           "ingredient_name": "Marshmallows",
-          "ingredient_count": 2.39,
+          "ingredient_count": "2.39",
           "ingredient_unit": "chunks"
         },
         {
           "ingredient_name": "Whipped Cream",
-          "ingredient_count": 5.93,
+          "ingredient_count": "5.93",
           "ingredient_unit": "chunks"
         },
         {
           "ingredient_name": "White Chocolate",
-          "ingredient_count": 3.1,
+          "ingredient_count": "3.1",
           "ingredient_unit": "quarts"
         },
         {
           "ingredient_name": "Sweetened Condensed Milk",
-          "ingredient_count": 11.77,
+          "ingredient_count": "11.77",
           "ingredient_unit": "bars"
         },
         {
           "ingredient_name": "Sweet Rice Flour",
-          "ingredient_count": 6.37,
+          "ingredient_count": "6.37",
           "ingredient_unit": "tablespoons"
         },
         {
           "ingredient_name": "Cream Cheese",
-          "ingredient_count": 10.86,
+          "ingredient_count": "10.86",
           "ingredient_unit": "deciliters"
         },
         {
           "ingredient_name": "Powdered Sugar",
-          "ingredient_count": 2.27,
+          "ingredient_count": "2.27",
           "ingredient_unit": "fillets"
         }
       ]
