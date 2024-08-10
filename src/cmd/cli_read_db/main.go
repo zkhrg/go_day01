@@ -1,38 +1,32 @@
 package main
 
 import (
-	"errors"
-	"flag"
 	"fmt"
 	"os"
-	"path/filepath"
 
 	"github.com/zkhrg/go_day01/pkg/dbreader"
 )
 
 func main() {
-	filePtr := flag.String("f", "", "path to file")
-	flag.Parse()
-	err := runByFileExtension(*filePtr)
+	if len(os.Args) != 3 {
+		fmt.Fprintf(os.Stderr, "incorrect number of arguments\n")
+		return
+	}
+	if os.Args[1] != "-f" {
+		fmt.Fprintf(os.Stderr, "need '-f' at call\n")
+		return
+	}
+	filename := os.Args[2]
+	reader, err := dbreader.ReaderByFileExtension(filename)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "%s\n", err.Error())
 	}
-}
-
-func runByFileExtension(filename string) error {
-	var err error
-	ext := filepath.Ext(filename)
-	switch ext {
-	case ".json":
-		json_db_reader := dbreader.JSONDBReader{}
-		json_db_reader.ReadFile(filename)
-		json_db_reader.Print()
-	case ".xml":
-		xml_db_reader := dbreader.XMLDBReader{}
-		xml_db_reader.ReadFile(filename)
-		xml_db_reader.Print()
-	default:
-		err = errors.New("file extension is not provided")
+	if err := reader.ReadFile(filename); err != nil {
+		fmt.Fprintf(os.Stderr, "%s\n", err)
+		return
 	}
-	return err
+	if err := reader.Print(); err != nil {
+		fmt.Fprintf(os.Stderr, "%s\n", err)
+		return
+	}
 }

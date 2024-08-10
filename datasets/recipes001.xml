@@ -1,12 +1,12 @@
 <recipes>
   <cake>
     <name>Red Velvet Strawberry Cake</name>
-    <stovetime>45 min</stovetime>
+    <stovetime>32 min</stovetime>
     <ingredients>
       <item>
         <itemname>Flour</itemname>
-        <itemcount>2</itemcount>
-        <itemunit>mugs</itemunit>
+        <itemcount>3</itemcount>
+        <itemunit>tanks</itemunit>
       </item>
       <item>
         <itemname>Sugar</itemname>

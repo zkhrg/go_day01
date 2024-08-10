@@ -6,6 +6,7 @@ import (
 	"errors"
 	"fmt"
 	"os"
+	"path/filepath"
 )
 
 type Ingredient struct {
@@ -24,6 +25,21 @@ type Recipe struct {
 	Cakes []Cake `json:"cake" xml:"cake"`
 }
 
+type MapIngredient struct {
+	Count string
+	Unit  string
+}
+
+type MapCake struct {
+	Name        string
+	Time        string
+	Ingredients map[string]MapIngredient
+}
+
+type MapRecipe struct {
+	Cakes map[string]MapCake
+}
+
 type JSONDBReader struct {
 	recipe *Recipe
 }
@@ -33,6 +49,7 @@ type XMLDBReader struct {
 }
 
 type DBReader interface {
+	GetRecipe() *Recipe
 	ReadFile(string) error
 	Print() error
 }
@@ -72,7 +89,7 @@ func (s *JSONDBReader) ReadFile(filename string) error {
 	return err
 }
 
-func (s *JSONDBReader) Print() error {
+func (s JSONDBReader) Print() error {
 	if s.recipe == nil {
 		return errors.New("recipe is empty")
 	}
@@ -119,7 +136,7 @@ func (s *XMLDBReader) ReadFile(filename string) error {
 	return err
 }
 
-func (s *XMLDBReader) Print() error {
+func (s XMLDBReader) Print() error {
 	if s.recipe == nil {
 		return errors.New("recipe is empty")
 	}
@@ -130,4 +147,47 @@ func (s *XMLDBReader) Print() error {
 	}
 	fmt.Println(string(data))
 	return nil
+}
+
+func ReaderByFileExtension(filename string) (DBReader, error) {
+	var err error
+	var reader DBReader
+	ext := filepath.Ext(filename)
+	switch ext {
+	case ".json":
+		reader = &JSONDBReader{}
+	case ".xml":
+		reader = &XMLDBReader{}
+	default:
+		err = errors.New("file extension is not provided")
+	}
+	return reader, err
+}
+
+func (s JSONDBReader) GetRecipe() *Recipe {
+	return s.recipe
+}
+
+func (s XMLDBReader) GetRecipe() *Recipe {
+	return s.recipe
+}
+
+func OriginalRecipeToMapRecipe(recipe *Recipe) *MapRecipe {
+	res := MapRecipe{}
+	res.Cakes = make(map[string]MapCake)
+	for _, cake := range recipe.Cakes {
+		ingredients_map := map[string]MapIngredient{}
+		for _, ingredient := range cake.Ingredients {
+			ingredients_map[ingredient.Name] = MapIngredient{
+				Unit:  ingredient.Unit,
+				Count: ingredient.Count,
+			}
+		}
+		res.Cakes[cake.Name] = MapCake{
+			Name:        cake.Name,
+			Time:        cake.Time,
+			Ingredients: ingredients_map,
+		}
+	}
+	return &res
 }

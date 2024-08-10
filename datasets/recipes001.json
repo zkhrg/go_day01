@@ -6,8 +6,7 @@
       "ingredients": [
         {
           "ingredient_name": "Flour",
-          "ingredient_count": "2",
-          "ingredient_unit": "mugs"
+          "ingredient_count": "2"
         },
         {
           "ingredient_name": "Strawberries",
