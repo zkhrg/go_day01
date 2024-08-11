@@ -1,0 +1,8 @@
+/etc/backup/backup1.tar.gz
+/etc/system/config.json
+/etc/system/hosts
+/etc/cron.d/cronjob2
+/etc/security/policies.xml
+/etc/security/firewall.rules
+/etc/updates/update.log
+/etc/updates/last_run.log

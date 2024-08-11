@@ -1,18 +1,13 @@
 package main
 
 import (
-	"bufio"
 	"errors"
 	"flag"
 	"fmt"
 	"os"
-	"strings"
-)
 
-type Path struct {
-	tag  string
-	path map[string]Path
-}
+	"github.com/zkhrg/go_day01/pkg/fscomparator"
+)
 
 func main() {
 	old := flag.String("old", "", "old version db")
@@ -33,7 +28,21 @@ func main() {
 		flag.Usage()
 		os.Exit(1)
 	}
-	compareFS(*old, *new)
+
+	tokens_map := make(map[string]uint32)
+	decode_tokens := make([]string, 0)
+	old_fs := fscomparator.NewFileSystem(*old)
+	new_fs := fscomparator.NewFileSystem(*new)
+
+	old_fs.Tokens_map = &tokens_map
+	new_fs.Tokens_map = &tokens_map
+	old_fs.Decode_tokens = &decode_tokens
+	new_fs.Decode_tokens = &decode_tokens
+
+	old_fs.Fill()
+	new_fs.Fill()
+
+	fscomparator.CompareFS(&old_fs, &new_fs)
 }
 
 func checkLengthFlags(osargs []string, checkargs []string) error {
@@ -51,71 +60,4 @@ func checkLengthFlags(osargs []string, checkargs []string) error {
 		return nil
 	}
 	return errors.New("not found right version of flags")
-}
-
-func compareFS(old_db_filename, new_db_filename string) {
-	var old_tree, new_tree Path
-	old_tree.FillFromFile(old_db_filename)
-	new_tree.FillFromFile(new_db_filename)
-	Print(old_tree)
-}
-
-// type Path struct {
-// 	path map[string]Path
-// }
-
-func (s *Path) Add(filename string) {
-	root := *s
-	parts := strings.Split(filename, "/")
-	for _, part := range parts {
-		if part == "" {
-			continue
-		}
-		fpart := fmt.Sprintf("/%s", part)
-		if _, ok := root.path[fpart]; !ok {
-			root.path[fpart] = NewPath(fpart)
-		}
-		root = root.path[fmt.Sprintf("/%s", part)]
-	}
-}
-
-func (s *Path) FillFromFile(filename string) {
-	*s = NewPath("")
-	file, err := os.Open(filename)
-	if err != nil {
-		fmt.Println("Ошибка при открытии файла:", err)
-		return
-	}
-	defer file.Close()
-
-	scanner := bufio.NewScanner(file)
-
-	for scanner.Scan() {
-		line := scanner.Text() // Получаем текущую строку
-		s.Add(line)
-	}
-
-	if err := scanner.Err(); err != nil {
-		fmt.Println("Ошибка при чтении файла:", err)
-	}
-}
-
-func NewPath(fpart string) Path {
-	return Path{
-		path: make(map[string]Path),
-		tag:  fpart,
-	}
-}
-
-// func (s *Path) Print() {
-// 	for
-// }
-
-func Print(p Path) {
-	if len(p.path) == 0 {
-		fmt.Printf("%s\n", p.tag)
-	}
-	for _, v := range p.path {
-		Print(v)
-	}
 }
