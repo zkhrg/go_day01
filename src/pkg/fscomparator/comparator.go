@@ -14,11 +14,15 @@ type FileSystem struct {
 	Decode_tokens *[]string
 }
 
-func NewFileSystem(filename string) FileSystem {
-	return FileSystem{
-		Filename: filename,
-		Paths:    make([][]uint32, 0),
+func NewFileSystem(filename string, tokens_map *map[string]uint32, decode_tokens *[]string) FileSystem {
+	fs := FileSystem{
+		Filename:      filename,
+		Paths:         make([][]uint32, 0),
+		Tokens_map:    tokens_map,
+		Decode_tokens: decode_tokens,
 	}
+	fs.fill()
+	return fs
 }
 
 func CompareFS(old_fs *FileSystem, new_fs *FileSystem) {
@@ -29,10 +33,10 @@ func CompareFS(old_fs *FileSystem, new_fs *FileSystem) {
 			old_fs.Paths[i] = []uint32{}
 		}
 	}
-	PrintDiff(old_fs, new_fs)
+	printDiff(old_fs, new_fs)
 }
 
-func (s *FileSystem) AddPath(path string) {
+func (s *FileSystem) addPath(path string) {
 	splitted_path := strings.Split(path, "/")
 	compressed_path := make([]uint32, 0)
 	for _, path_part := range splitted_path {
@@ -48,7 +52,7 @@ func (s *FileSystem) AddPath(path string) {
 	s.Paths = append(s.Paths, compressed_path)
 }
 
-func (s *FileSystem) Fill() {
+func (s *FileSystem) fill() {
 	file, err := os.Open(s.Filename)
 	if err != nil {
 		fmt.Println("Ошибка при открытии файла:", err)
@@ -60,7 +64,7 @@ func (s *FileSystem) Fill() {
 
 	for scanner.Scan() {
 		line := scanner.Text()
-		s.AddPath(line)
+		s.addPath(line)
 	}
 
 	if err := scanner.Err(); err != nil {
@@ -89,7 +93,7 @@ func findSubslice(sliceOfSlices [][]uint32, target []uint32) int {
 	return -1
 }
 
-func PrintDiff(old_fs *FileSystem, new_fs *FileSystem) {
+func printDiff(old_fs *FileSystem, new_fs *FileSystem) {
 	for _, v := range old_fs.Paths {
 		if len(v) == 0 {
 			continue

@@ -34,16 +34,8 @@ func main() {
 
 	tokens_map := make(map[string]uint32)
 	decode_tokens := make([]string, 0)
-	old_fs := fscomparator.NewFileSystem(*old)
-	new_fs := fscomparator.NewFileSystem(*new)
-
-	old_fs.Tokens_map = &tokens_map
-	new_fs.Tokens_map = &tokens_map
-	old_fs.Decode_tokens = &decode_tokens
-	new_fs.Decode_tokens = &decode_tokens
-
-	old_fs.Fill()
-	new_fs.Fill()
+	old_fs := fscomparator.NewFileSystem(*old, &tokens_map, &decode_tokens)
+	new_fs := fscomparator.NewFileSystem(*new, &tokens_map, &decode_tokens)
 
 	fscomparator.CompareFS(&old_fs, &new_fs)
 }
