@@ -1,27 +1,29 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"os"
 
 	"github.com/zkhrg/go_day01/pkg/dbreader"
+	"github.com/zkhrg/go_day01/pkg/flaghelper"
 )
 
 func main() {
-	if len(os.Args) != 3 {
-		fmt.Fprintf(os.Stderr, "incorrect number of arguments\n")
+	filename := flag.String("f", "", "file to read (json will be printed xml and vice versa)")
+	flag.Parse()
+
+	if err := flaghelper.CheckLengthFlags(os.Args, []string{"-f"}); err != nil {
+		fmt.Fprintf(os.Stderr, "%s\n", err.Error())
 		return
 	}
-	if os.Args[1] != "-f" {
-		fmt.Fprintf(os.Stderr, "need '-f' at call\n")
-		return
-	}
-	filename := os.Args[2]
-	reader, err := dbreader.ReaderByFileExtension(filename)
+
+	reader, err := dbreader.ReaderByFileExtension(*filename)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "%s\n", err.Error())
+		return
 	}
-	if err := reader.ReadFile(filename); err != nil {
+	if err := reader.ReadFile(*filename); err != nil {
 		fmt.Fprintf(os.Stderr, "%s\n", err)
 		return
 	}

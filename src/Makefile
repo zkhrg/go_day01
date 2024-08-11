@@ -16,7 +16,7 @@ $(COMPAREFS_TARGET):
 test_cmp:
 #	@./bin/compareDB --old ../datasets/recipes001.json --new ../datasets/recipes001.xml
 #	@./bin/compareDB --old ../datasets/recipes002.json --new ../datasets/recipes002.xml
-	@./bin/compareDB --old ../datasets/recipes002.xml --new ../datasets/recipes002.json
+	./bin/compareDB --old ../datasets/recipes002.xml --new ../datasets/recipes002.json
 
 test_fs: 
 	@./bin/compareFS --old ../datasets/snapshot3.txt --new ../datasets/snapshot4.txt

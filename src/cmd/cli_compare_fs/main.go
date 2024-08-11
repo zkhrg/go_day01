@@ -1,11 +1,11 @@
 package main
 
 import (
-	"errors"
 	"flag"
 	"fmt"
 	"os"
 
+	"github.com/zkhrg/go_day01/pkg/flaghelper"
 	"github.com/zkhrg/go_day01/pkg/fscomparator"
 )
 
@@ -15,7 +15,10 @@ func main() {
 
 	flag.Parse()
 
-	checkLengthFlags(os.Args, []string{"--new", "--old"})
+	if err := flaghelper.CheckLengthFlags(os.Args, []string{"--new", "--old"}); err != nil {
+		fmt.Fprintf(os.Stderr, "%s\n", err.Error())
+		return
+	}
 
 	if *old == "" {
 		fmt.Println("Error: --old is required")
@@ -43,21 +46,4 @@ func main() {
 	new_fs.Fill()
 
 	fscomparator.CompareFS(&old_fs, &new_fs)
-}
-
-func checkLengthFlags(osargs []string, checkargs []string) error {
-	found := true
-	for i := 0; i < len(checkargs) && found; i++ {
-		mini_found := false
-		for j := 0; j < len(osargs); j++ {
-			if checkargs[i] == osargs[i] {
-				mini_found = true
-			}
-		}
-		found = found && mini_found
-	}
-	if found {
-		return nil
-	}
-	return errors.New("not found right version of flags")
 }
