@@ -15,10 +15,6 @@
 6. [Глава VI](#chapter-vi) \
     6.1. [Упражнение 02: Афтепати](#exercise-02-afterparty)
 
-
-<h2 id="chapter-i" >Глава I</h2>
-<h2 id="general-rules" >Основные правила</h2>
-
 <h2 id="chapter-i" >Глава I</h2>
 <h2 id="general-rules" >Основные правила</h2>
 
